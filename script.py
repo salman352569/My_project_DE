@@ -40,22 +40,27 @@ st.markdown("""
         letter-spacing: 0.06em;
         margin: 24px 0 12px;
     }
-</style> }
+</style>
 """
 ,unsafe_allow_html =True)
 # ── Load data ─────────────────────────────────────────────────────────────────
 @st.cache_data
 def load_data():
-    fact=pd.read_csv("data/fact_sales-2026-05-06.csv",   parse_dates=["order_date","ship_date","due_date"])
+    fact=pd.read_csv("data/gold_fact_sales.csv",   parse_dates=["order_date","ship_date","due_date"])
 
-    cust=pd.read_csv("data/dim_customers-2026-05-06.csv",  parse_dates=["birthdate","create_date"])
+    cust=pd.read_csv("data/gold_dim_customers.csv",  parse_dates=["birthdate","create_date"])
 
-    prod=pd.read_csv("data/dim_products-2026-05-06.csv",  parse_dates=["start_date"])
+    prod=pd.read_csv("data/gold_dim_products.csv",  parse_dates=["start_date"])
 
     # clean country
-    cust["country"] = cust["country"].str.strip().str.lower()
+    cust["country"] = cust["country"].str.strip().str.title()
 
     # join all tables into one flat dataframe 
+    fact["product_key"] = fact["product_key"].astype(str).str.strip()
+    fact["customer_key"] =fact["customer_key"].astype(str).str.strip()
+    prod["product_key"] = prod["product_key"].astype(str).str.strip()
+    cust["customer_key"] = cust["customer_key"].astype(str).str.strip()
+
     df =(
         fact
         .merge(prod, on="product_key", how="left")
@@ -71,14 +76,22 @@ def load_data():
     df["age"] =df["order_date"].dt.year - pd.to_datetime(df["birthdate"]).dt.year
 
     # Age Bucket 
+    df["age"] = df.apply(
+        lambda row:(
+            row["order_date"].year - pd.to_datetime(row["birthdate"]).year
+            if pd.notna(row["birthdate"]) else None
+        ),
+        axis=1
+    )
     def age_bucket(a):
-        if a < 30: return "under 30"
-        elif a < 40: return "30-39"
-        elif a < 50: return "40–49"
-        elif a < 60: return "50–59"
-        else:        return "60+"
-    df["age_group"]= df["age"].apply(age_bucket)
+        if pd.isna(a): return "Unknown"
+        elif a < 30 :  return "under 30"
+        elif a < 40 :  return "30-39"
+        elif a < 50 :  return "40 -49"
+        elif a < 60 :  return "50-59"
+        else:          return "60+"
 
+    df["age_group"] = df["age"].apply(age_bucket)
     return df ,fact,cust,prod
 df,fact,cust,prod =load_data()
 
@@ -87,7 +100,6 @@ with st.sidebar:
     st.image("https://cdn-icons-png.flaticon.com/512/2972/2972185.png", width=60)
     st.title("🚴 Bike Lakehouse")
     st.markdown("----")
-
     st.markdown("### Filters ")
 
     years=sorted(df["year"].dropna().unique())
@@ -285,9 +297,9 @@ with tab3:
  
     with col_b:
         st.markdown('<div class="section-header">Revenue by marital status</div>', unsafe_allow_html=True)
-        by_ms = fdf.groupby("martial_status")["sales_amount"].sum().reset_index()
+        by_ms = fdf.groupby("marital_status")["sales_amount"].sum().reset_index()
         fig_ms = px.bar(
-            by_ms, x="martial_status", y="sales_amount",
+            by_ms, x="marital_status", y="sales_amount",
             labels={"sales_amount": "Revenue ($)", "martial_status": ""},
             template="plotly_white",
             color_discrete_sequence=["#14b8a6"],
