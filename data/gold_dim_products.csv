@@ -1,0 +1,398 @@
+product_key,product_id,product_number,category_id,product_name,category,subcategory,maintenance_flag,product_line,product_cost,is_cost_known,start_date,is_active
+9c7d1300cc71560c2865f37e28a5e8b471a9836b498e92acd22e87c67b24aa10,210,FR-R92B-58,CO_RF,HL Road Frame - Black- 58,Components,Road Frames,true,Road,null,false,2003-07-01,true
+b4964f45214cea60433c1849de1280d13bff0e45fb52bf83b819d54ce2133f7a,211,FR-R92R-58,CO_RF,HL Road Frame - Red- 58,Components,Road Frames,true,Road,null,false,2003-07-01,true
+adf3537f6b3ca7c3643eee8794da80f696d4aec7c2d9ebaf46859fa31e3ec097,212,HL-U509-R,AC_HE,Sport-100 Helmet- Red,Accessories,Helmets,true,other sales,12,true,2011-07-01,false
+adf3537f6b3ca7c3643eee8794da80f696d4aec7c2d9ebaf46859fa31e3ec097,213,HL-U509-R,AC_HE,Sport-100 Helmet- Red,Accessories,Helmets,true,other sales,14,true,2012-07-01,false
+adf3537f6b3ca7c3643eee8794da80f696d4aec7c2d9ebaf46859fa31e3ec097,214,HL-U509-R,AC_HE,Sport-100 Helmet- Red,Accessories,Helmets,true,other sales,13,true,2013-07-01,true
+9ae8da246a71ee6983a96cf5cedbb1f2e08a88f726ad88e04a64d73a3a974d3d,215,HL-U509,AC_HE,Sport-100 Helmet- Black,Accessories,Helmets,true,other sales,12,true,2011-07-01,false
+9ae8da246a71ee6983a96cf5cedbb1f2e08a88f726ad88e04a64d73a3a974d3d,216,HL-U509,AC_HE,Sport-100 Helmet- Black,Accessories,Helmets,true,other sales,14,true,2012-07-01,false
+9ae8da246a71ee6983a96cf5cedbb1f2e08a88f726ad88e04a64d73a3a974d3d,217,HL-U509,AC_HE,Sport-100 Helmet- Black,Accessories,Helmets,true,other sales,13,true,2013-07-01,true
+e3ebe6960fa3ca8a8f04122fd4d1096a68293a905198761063136b244e4f6502,218,SO-B909-M,CL_SO,Mountain Bike Socks- M,Clothing,Socks,false,Mountain,3,true,2011-07-01,false
+03cdcbfc00c097a06ff24627ae918fb625a4a463a3991f9b55151fa14898eda4,219,SO-B909-L,CL_SO,Mountain Bike Socks- L,Clothing,Socks,false,Mountain,3,true,2011-07-01,false
+19c19279ce4c55bb148e5ebb701d2768a1de36a8220f31de185dc5a4658fd997,220,HL-U509-B,AC_HE,Sport-100 Helmet- Blue,Accessories,Helmets,true,other sales,12,true,2011-07-01,false
+19c19279ce4c55bb148e5ebb701d2768a1de36a8220f31de185dc5a4658fd997,221,HL-U509-B,AC_HE,Sport-100 Helmet- Blue,Accessories,Helmets,true,other sales,14,true,2012-07-01,false
+19c19279ce4c55bb148e5ebb701d2768a1de36a8220f31de185dc5a4658fd997,222,HL-U509-B,AC_HE,Sport-100 Helmet- Blue,Accessories,Helmets,true,other sales,13,true,2013-07-01,true
+a6b2d9d373480cfc1ab9d23084c4cfc587c0e20874125335ae264d6649f90f86,223,CA-1098,CL_CA,AWC Logo Cap,Clothing,Caps,false,other sales,6,true,2011-07-01,false
+a6b2d9d373480cfc1ab9d23084c4cfc587c0e20874125335ae264d6649f90f86,224,CA-1098,CL_CA,AWC Logo Cap,Clothing,Caps,false,other sales,5,true,2012-07-01,false
+a6b2d9d373480cfc1ab9d23084c4cfc587c0e20874125335ae264d6649f90f86,225,CA-1098,CL_CA,AWC Logo Cap,Clothing,Caps,false,other sales,7,true,2013-07-01,true
+74ca8849636be1b35a5eab0c9bed8b55aedad027e459ae2cf6348dce513839e4,226,LJ-0192-S,CL_JE,Long-Sleeve Logo Jersey- S,Clothing,Jerseys,false,other sales,32,true,2011-07-01,false
+74ca8849636be1b35a5eab0c9bed8b55aedad027e459ae2cf6348dce513839e4,227,LJ-0192-S,CL_JE,Long-Sleeve Logo Jersey- S,Clothing,Jerseys,false,other sales,29,true,2012-07-01,false
+74ca8849636be1b35a5eab0c9bed8b55aedad027e459ae2cf6348dce513839e4,228,LJ-0192-S,CL_JE,Long-Sleeve Logo Jersey- S,Clothing,Jerseys,false,other sales,38,true,2013-07-01,true
+f764aad76841437e1ecfeb9f257d22955c82ad553fa4aead5ba81ff2c81209f7,229,LJ-0192-M,CL_JE,Long-Sleeve Logo Jersey- M,Clothing,Jerseys,false,other sales,32,true,2011-07-01,false
+f764aad76841437e1ecfeb9f257d22955c82ad553fa4aead5ba81ff2c81209f7,230,LJ-0192-M,CL_JE,Long-Sleeve Logo Jersey- M,Clothing,Jerseys,false,other sales,29,true,2012-07-01,false
+f764aad76841437e1ecfeb9f257d22955c82ad553fa4aead5ba81ff2c81209f7,231,LJ-0192-M,CL_JE,Long-Sleeve Logo Jersey- M,Clothing,Jerseys,false,other sales,38,true,2013-07-01,true
+c4f2efd154a071f985104960ab020fa897a1f6e344930056b126e87e2c4f391e,232,LJ-0192-L,CL_JE,Long-Sleeve Logo Jersey- L,Clothing,Jerseys,false,other sales,32,true,2011-07-01,false
+c4f2efd154a071f985104960ab020fa897a1f6e344930056b126e87e2c4f391e,233,LJ-0192-L,CL_JE,Long-Sleeve Logo Jersey- L,Clothing,Jerseys,false,other sales,29,true,2012-07-01,false
+c4f2efd154a071f985104960ab020fa897a1f6e344930056b126e87e2c4f391e,234,LJ-0192-L,CL_JE,Long-Sleeve Logo Jersey- L,Clothing,Jerseys,false,other sales,38,true,2013-07-01,true
+535564b05766a422a4915bce8690c2260618bb7f579ea93f12b6d6ef0e442511,235,LJ-0192-X,CL_JE,Long-Sleeve Logo Jersey- XL,Clothing,Jerseys,false,other sales,32,true,2011-07-01,false
+535564b05766a422a4915bce8690c2260618bb7f579ea93f12b6d6ef0e442511,236,LJ-0192-X,CL_JE,Long-Sleeve Logo Jersey- XL,Clothing,Jerseys,false,other sales,29,true,2012-07-01,false
+535564b05766a422a4915bce8690c2260618bb7f579ea93f12b6d6ef0e442511,237,LJ-0192-X,CL_JE,Long-Sleeve Logo Jersey- XL,Clothing,Jerseys,false,other sales,38,true,2013-07-01,true
+742a7082a09424d2987ebd1e412df7c19858a49d1c29c8b24ade249d98bd579f,238,FR-R92R-62,CO_RF,HL Road Frame - Red- 62,Components,Road Frames,true,Road,748,true,2011-07-01,false
+742a7082a09424d2987ebd1e412df7c19858a49d1c29c8b24ade249d98bd579f,239,FR-R92R-62,CO_RF,HL Road Frame - Red- 62,Components,Road Frames,true,Road,722,true,2012-07-01,false
+742a7082a09424d2987ebd1e412df7c19858a49d1c29c8b24ade249d98bd579f,240,FR-R92R-62,CO_RF,HL Road Frame - Red- 62,Components,Road Frames,true,Road,869,true,2013-07-01,true
+68ef2a05edef439b0bd6bd15406c8a7a96046031a1572bb6fb16c00a1bbd9cd4,241,FR-R92R-44,CO_RF,HL Road Frame - Red- 44,Components,Road Frames,true,Road,748,true,2011-07-01,false
+68ef2a05edef439b0bd6bd15406c8a7a96046031a1572bb6fb16c00a1bbd9cd4,242,FR-R92R-44,CO_RF,HL Road Frame - Red- 44,Components,Road Frames,true,Road,722,true,2012-07-01,false
+68ef2a05edef439b0bd6bd15406c8a7a96046031a1572bb6fb16c00a1bbd9cd4,243,FR-R92R-44,CO_RF,HL Road Frame - Red- 44,Components,Road Frames,true,Road,869,true,2013-07-01,true
+580a067f2346d2816e0cd5437ae3018effd911f92dca80944f5ae63bcce8f41e,244,FR-R92R-48,CO_RF,HL Road Frame - Red- 48,Components,Road Frames,true,Road,748,true,2011-07-01,false
+580a067f2346d2816e0cd5437ae3018effd911f92dca80944f5ae63bcce8f41e,245,FR-R92R-48,CO_RF,HL Road Frame - Red- 48,Components,Road Frames,true,Road,722,true,2012-07-01,false
+580a067f2346d2816e0cd5437ae3018effd911f92dca80944f5ae63bcce8f41e,246,FR-R92R-48,CO_RF,HL Road Frame - Red- 48,Components,Road Frames,true,Road,869,true,2013-07-01,true
+1590b97fa2afd891895853f5156fef9e39d43f09c50cfff1d587a6d82919e7f8,247,FR-R92R-52,CO_RF,HL Road Frame - Red- 52,Components,Road Frames,true,Road,748,true,2011-07-01,false
+1590b97fa2afd891895853f5156fef9e39d43f09c50cfff1d587a6d82919e7f8,248,FR-R92R-52,CO_RF,HL Road Frame - Red- 52,Components,Road Frames,true,Road,722,true,2012-07-01,false
+1590b97fa2afd891895853f5156fef9e39d43f09c50cfff1d587a6d82919e7f8,249,FR-R92R-52,CO_RF,HL Road Frame - Red- 52,Components,Road Frames,true,Road,869,true,2013-07-01,true
+e79db0443b50d6219f572bd68b312e2fdaca228a35837556276292d96a695855,250,FR-R92R-56,CO_RF,HL Road Frame - Red- 56,Components,Road Frames,true,Road,748,true,2011-07-01,false
+e79db0443b50d6219f572bd68b312e2fdaca228a35837556276292d96a695855,251,FR-R92R-56,CO_RF,HL Road Frame - Red- 56,Components,Road Frames,true,Road,722,true,2012-07-01,false
+e79db0443b50d6219f572bd68b312e2fdaca228a35837556276292d96a695855,252,FR-R92R-56,CO_RF,HL Road Frame - Red- 56,Components,Road Frames,true,Road,869,true,2013-07-01,true
+2163c8259a90c0b4deac646f222246e45f511bf1a5ec821352862137b2e31366,253,FR-R38B-58,CO_RF,LL Road Frame - Black- 58,Components,Road Frames,true,Road,176,true,2011-07-01,false
+2163c8259a90c0b4deac646f222246e45f511bf1a5ec821352862137b2e31366,254,FR-R38B-58,CO_RF,LL Road Frame - Black- 58,Components,Road Frames,true,Road,170,true,2012-07-01,false
+2163c8259a90c0b4deac646f222246e45f511bf1a5ec821352862137b2e31366,255,FR-R38B-58,CO_RF,LL Road Frame - Black- 58,Components,Road Frames,true,Road,205,true,2013-07-01,true
+b35527159d40f36eb1d8efef36add34b726f85d5a2a89bb781a52177cc5fe01f,256,FR-R38B-60,CO_RF,LL Road Frame - Black- 60,Components,Road Frames,true,Road,176,true,2011-07-01,false
+b35527159d40f36eb1d8efef36add34b726f85d5a2a89bb781a52177cc5fe01f,257,FR-R38B-60,CO_RF,LL Road Frame - Black- 60,Components,Road Frames,true,Road,170,true,2012-07-01,false
+b35527159d40f36eb1d8efef36add34b726f85d5a2a89bb781a52177cc5fe01f,258,FR-R38B-60,CO_RF,LL Road Frame - Black- 60,Components,Road Frames,true,Road,205,true,2013-07-01,true
+7b1d722d284f34b4cdb534a61b62addf3e8dad1ebf515b002a5435b5b2f9d2ab,259,FR-R38B-62,CO_RF,LL Road Frame - Black- 62,Components,Road Frames,true,Road,176,true,2011-07-01,false
+7b1d722d284f34b4cdb534a61b62addf3e8dad1ebf515b002a5435b5b2f9d2ab,260,FR-R38B-62,CO_RF,LL Road Frame - Black- 62,Components,Road Frames,true,Road,170,true,2012-07-01,false
+7b1d722d284f34b4cdb534a61b62addf3e8dad1ebf515b002a5435b5b2f9d2ab,261,FR-R38B-62,CO_RF,LL Road Frame - Black- 62,Components,Road Frames,true,Road,205,true,2013-07-01,true
+155ebfd037b8e1897600c277934bdf40b832bdb147a85fdaeeaed7a71195f2b9,262,FR-R38R-44,CO_RF,LL Road Frame - Red- 44,Components,Road Frames,true,Road,181,true,2011-07-01,false
+155ebfd037b8e1897600c277934bdf40b832bdb147a85fdaeeaed7a71195f2b9,263,FR-R38R-44,CO_RF,LL Road Frame - Red- 44,Components,Road Frames,true,Road,187,true,2012-07-01,false
+d59d93a946d9214b3959010e5aef33095f01bc4c49f151d34fdbdbb69a6dd204,264,FR-R38R-48,CO_RF,LL Road Frame - Red- 48,Components,Road Frames,true,Road,181,true,2011-07-01,false
+d59d93a946d9214b3959010e5aef33095f01bc4c49f151d34fdbdbb69a6dd204,265,FR-R38R-48,CO_RF,LL Road Frame - Red- 48,Components,Road Frames,true,Road,187,true,2012-07-01,false
+2c893a1b6bece86e4ce58693c9545128ce985a73bb14f8651ffb6c195f488e1a,266,FR-R38R-52,CO_RF,LL Road Frame - Red- 52,Components,Road Frames,true,Road,181,true,2011-07-01,false
+2c893a1b6bece86e4ce58693c9545128ce985a73bb14f8651ffb6c195f488e1a,267,FR-R38R-52,CO_RF,LL Road Frame - Red- 52,Components,Road Frames,true,Road,187,true,2012-07-01,false
+253a925f92152121e18c6e7f412f774af294cf3047ed17cc3717151113948444,268,FR-R38R-58,CO_RF,LL Road Frame - Red- 58,Components,Road Frames,true,Road,181,true,2011-07-01,false
+253a925f92152121e18c6e7f412f774af294cf3047ed17cc3717151113948444,269,FR-R38R-58,CO_RF,LL Road Frame - Red- 58,Components,Road Frames,true,Road,187,true,2012-07-01,false
+7d0cabdbdc5b97433b12bd52d861874d9a57f4096313fa07c1d560bca5a3469a,270,FR-R38R-60,CO_RF,LL Road Frame - Red- 60,Components,Road Frames,true,Road,181,true,2011-07-01,false
+7d0cabdbdc5b97433b12bd52d861874d9a57f4096313fa07c1d560bca5a3469a,271,FR-R38R-60,CO_RF,LL Road Frame - Red- 60,Components,Road Frames,true,Road,187,true,2012-07-01,false
+fa0b5c10896b6fecde5a7c84cd57b57c1d225951d6c714bd272397e96106fa99,272,FR-R38R-62,CO_RF,LL Road Frame - Red- 62,Components,Road Frames,true,Road,181,true,2011-07-01,false
+fa0b5c10896b6fecde5a7c84cd57b57c1d225951d6c714bd272397e96106fa99,273,FR-R38R-62,CO_RF,LL Road Frame - Red- 62,Components,Road Frames,true,Road,187,true,2012-07-01,false
+8327786e08351c6b4ddbf0885250f1ba989f005378caffc39e842ab10df338c0,274,FR-R72R-44,CO_RF,ML Road Frame - Red- 44,Components,Road Frames,true,Road,352,true,2011-07-01,false
+d29df68d3cf51f2ac893c541f2ec801a1ec52d08e2e5dfc5f19d320da23e900f,275,FR-R72R-48,CO_RF,ML Road Frame - Red- 48,Components,Road Frames,true,Road,352,true,2011-07-01,false
+c076d00b01c55f95b1475e8c6efed43b7fb926ec6c252d7fb04f684ad3435a2e,276,FR-R72R-52,CO_RF,ML Road Frame - Red- 52,Components,Road Frames,true,Road,352,true,2011-07-01,false
+f5081f1cfb11f0056b3cc398f9b1f1688fd70ac3404f0f2a94a4484a0e823df9,277,FR-R72R-58,CO_RF,ML Road Frame - Red- 58,Components,Road Frames,true,Road,352,true,2011-07-01,false
+dc88a4412dee381a34ddd028ed631fa455e58335203c8531ab3070531967539a,278,FR-R72R-60,CO_RF,ML Road Frame - Red- 60,Components,Road Frames,true,Road,352,true,2011-07-01,false
+2fc556d034467e19f6810f96d3c0c441bc147dad4f76798b5e9b52537e131ebe,279,FR-R38B-44,CO_RF,LL Road Frame - Black- 44,Components,Road Frames,true,Road,176,true,2011-07-01,false
+2fc556d034467e19f6810f96d3c0c441bc147dad4f76798b5e9b52537e131ebe,280,FR-R38B-44,CO_RF,LL Road Frame - Black- 44,Components,Road Frames,true,Road,170,true,2012-07-01,false
+2fc556d034467e19f6810f96d3c0c441bc147dad4f76798b5e9b52537e131ebe,281,FR-R38B-44,CO_RF,LL Road Frame - Black- 44,Components,Road Frames,true,Road,205,true,2013-07-01,true
+a81914e833b5734927cd097b0505b07bc0e800c762632ed2479ae909952c0502,282,FR-R38B-48,CO_RF,LL Road Frame - Black- 48,Components,Road Frames,true,Road,176,true,2011-07-01,false
+a81914e833b5734927cd097b0505b07bc0e800c762632ed2479ae909952c0502,283,FR-R38B-48,CO_RF,LL Road Frame - Black- 48,Components,Road Frames,true,Road,170,true,2012-07-01,false
+a81914e833b5734927cd097b0505b07bc0e800c762632ed2479ae909952c0502,284,FR-R38B-48,CO_RF,LL Road Frame - Black- 48,Components,Road Frames,true,Road,205,true,2013-07-01,true
+44be73d310dee6488069cf86eb319277500de0f1548381e139fa749cc3a4f31d,285,FR-R38B-52,CO_RF,LL Road Frame - Black- 52,Components,Road Frames,true,Road,176,true,2011-07-01,false
+44be73d310dee6488069cf86eb319277500de0f1548381e139fa749cc3a4f31d,286,FR-R38B-52,CO_RF,LL Road Frame - Black- 52,Components,Road Frames,true,Road,170,true,2012-07-01,false
+44be73d310dee6488069cf86eb319277500de0f1548381e139fa749cc3a4f31d,287,FR-R38B-52,CO_RF,LL Road Frame - Black- 52,Components,Road Frames,true,Road,205,true,2013-07-01,true
+f7308264d00defc86c5531f869bab0f089398f24e1da71e1d9feadd1d465623c,288,FR-M94S-42,CO_MF,HL Mountain Frame - Silver- 42,Components,Mountain Frames,true,Mountain,624,true,2011-07-01,false
+f7308264d00defc86c5531f869bab0f089398f24e1da71e1d9feadd1d465623c,289,FR-M94S-42,CO_MF,HL Mountain Frame - Silver- 42,Components,Mountain Frames,true,Mountain,661,true,2012-07-01,false
+f7308264d00defc86c5531f869bab0f089398f24e1da71e1d9feadd1d465623c,290,FR-M94S-42,CO_MF,HL Mountain Frame - Silver- 42,Components,Mountain Frames,true,Mountain,747,true,2013-07-01,true
+06a2e6555109657332d544901be86c4c57e2f7e29a9c42d68e9b7debc09f026b,291,FR-M94S-44,CO_MF,HL Mountain Frame - Silver- 44,Components,Mountain Frames,true,Mountain,707,true,2011-07-01,false
+7dd86f18eaff651d8604d85ad5099059fc1feb3314aba0c866e597a37269bebd,292,FR-M94S-52,CO_MF,HL Mountain Frame - Silver- 48,Components,Mountain Frames,true,Mountain,707,true,2011-07-01,false
+0bfa4ae799b41009c5fd198e0bc038067266d520e17ec8d1178340578f4a2a34,293,FR-M94S-46,CO_MF,HL Mountain Frame - Silver- 46,Components,Mountain Frames,true,Mountain,624,true,2011-07-01,false
+0bfa4ae799b41009c5fd198e0bc038067266d520e17ec8d1178340578f4a2a34,294,FR-M94S-46,CO_MF,HL Mountain Frame - Silver- 46,Components,Mountain Frames,true,Mountain,661,true,2012-07-01,false
+0bfa4ae799b41009c5fd198e0bc038067266d520e17ec8d1178340578f4a2a34,295,FR-M94S-46,CO_MF,HL Mountain Frame - Silver- 46,Components,Mountain Frames,true,Mountain,747,true,2013-07-01,true
+ceddfca16cbe6f3b90be370065aebe4623960dc886b1c8288a25a9c3c5533cfc,296,FR-M94B-42,CO_MF,HL Mountain Frame - Black- 42,Components,Mountain Frames,true,Mountain,617,true,2011-07-01,false
+ceddfca16cbe6f3b90be370065aebe4623960dc886b1c8288a25a9c3c5533cfc,297,FR-M94B-42,CO_MF,HL Mountain Frame - Black- 42,Components,Mountain Frames,true,Mountain,654,true,2012-07-01,false
+ceddfca16cbe6f3b90be370065aebe4623960dc886b1c8288a25a9c3c5533cfc,298,FR-M94B-42,CO_MF,HL Mountain Frame - Black- 42,Components,Mountain Frames,true,Mountain,739,true,2013-07-01,true
+4518c983d3c6c9f460a5bd26941dba1e7db41b84d50cfdc144dde8c31260c507,299,FR-M94B-44,CO_MF,HL Mountain Frame - Black- 44,Components,Mountain Frames,true,Mountain,699,true,2011-07-01,false
+c7544de7a9a245d2f79f2eecc972db0c7faf28f2306fde6f39527b28aeab9bc3,300,FR-M94B-48,CO_MF,HL Mountain Frame - Black- 48,Components,Mountain Frames,true,Mountain,699,true,2011-07-01,false
+dbbe776a0b1f78243ef37c3e6175097c6040dbe928bda7dd0b5c08a9bc17aef4,301,FR-M94B-46,CO_MF,HL Mountain Frame - Black- 46,Components,Mountain Frames,true,Mountain,617,true,2011-07-01,false
+dbbe776a0b1f78243ef37c3e6175097c6040dbe928bda7dd0b5c08a9bc17aef4,302,FR-M94B-46,CO_MF,HL Mountain Frame - Black- 46,Components,Mountain Frames,true,Mountain,654,true,2012-07-01,false
+dbbe776a0b1f78243ef37c3e6175097c6040dbe928bda7dd0b5c08a9bc17aef4,303,FR-M94B-46,CO_MF,HL Mountain Frame - Black- 46,Components,Mountain Frames,true,Mountain,739,true,2013-07-01,true
+47314d06a33f3ab2b58705d785a5e759998c36df4445646da4b209d8defdc490,304,FR-M94B-38,CO_MF,HL Mountain Frame - Black- 38,Components,Mountain Frames,true,Mountain,617,true,2011-07-01,false
+47314d06a33f3ab2b58705d785a5e759998c36df4445646da4b209d8defdc490,305,FR-M94B-38,CO_MF,HL Mountain Frame - Black- 38,Components,Mountain Frames,true,Mountain,654,true,2012-07-01,false
+47314d06a33f3ab2b58705d785a5e759998c36df4445646da4b209d8defdc490,306,FR-M94B-38,CO_MF,HL Mountain Frame - Black- 38,Components,Mountain Frames,true,Mountain,739,true,2013-07-01,true
+084ea46486d0387dea96c752a9fb012af036a8c43902854f8ba3388e330eb839,307,FR-M94S-38,CO_MF,HL Mountain Frame - Silver- 38,Components,Mountain Frames,true,Mountain,624,true,2011-07-01,false
+084ea46486d0387dea96c752a9fb012af036a8c43902854f8ba3388e330eb839,308,FR-M94S-38,CO_MF,HL Mountain Frame - Silver- 38,Components,Mountain Frames,true,Mountain,661,true,2012-07-01,false
+084ea46486d0387dea96c752a9fb012af036a8c43902854f8ba3388e330eb839,309,FR-M94S-38,CO_MF,HL Mountain Frame - Silver- 38,Components,Mountain Frames,true,Mountain,747,true,2013-07-01,true
+f3b0dface263adafb4ebea9962173e51e4b096629f8c3032841900c71c7538b7,310,BK-R93R-62,BI_RB,Road-150 Red- 62,Bikes,Road Bikes,true,Road,2171,true,2011-07-01,false
+f608bb5a88566bbe7f3caaa6085ecf8dbf688936612e0e332671d17f213ba0b8,311,BK-R93R-44,BI_RB,Road-150 Red- 44,Bikes,Road Bikes,true,Road,2171,true,2011-07-01,false
+3ab575c5ce5de301c69675dce9e41378c762cc868ae808a18b769e18f5e79846,312,BK-R93R-48,BI_RB,Road-150 Red- 48,Bikes,Road Bikes,true,Road,2171,true,2011-07-01,false
+89bcec2487a32ab42420d51e59928085bcf3fbabd004e8154c15bca553d29b62,313,BK-R93R-52,BI_RB,Road-150 Red- 52,Bikes,Road Bikes,true,Road,2171,true,2011-07-01,false
+5f557aeec70cf4324493e431bdc5d61c2bcdaa8595d92def2c11a69f94db3a7e,314,BK-R93R-56,BI_RB,Road-150 Red- 56,Bikes,Road Bikes,true,Road,2171,true,2011-07-01,false
+b97137f9c164e95a924c5a7bb5472c8790a19c3f4aa368666f37ff850ce4212b,315,BK-R68R-58,BI_RB,Road-450 Red- 58,Bikes,Road Bikes,true,Road,885,true,2011-07-01,false
+3785b04e00cb99be6be31923358733034c0c9c88ab9c52fc434ddd47d7ca7fac,316,BK-R68R-60,BI_RB,Road-450 Red- 60,Bikes,Road Bikes,true,Road,885,true,2011-07-01,false
+e5d010a3d5b01e69b33bd347be2352ddd73561bc377c85614f353cfea021c0f5,317,BK-R68R-44,BI_RB,Road-450 Red- 44,Bikes,Road Bikes,true,Road,885,true,2011-07-01,false
+074b1283482ff6246fcd7e89c24ec11fcc06698841ed7524130f06bbfa4df958,318,BK-R68R-48,BI_RB,Road-450 Red- 48,Bikes,Road Bikes,true,Road,885,true,2011-07-01,false
+14afbdaef247abc37a86055e60ad5e43e6f3c68cff8373e55ef5cbc9baf13557,319,BK-R68R-52,BI_RB,Road-450 Red- 52,Bikes,Road Bikes,true,Road,885,true,2011-07-01,false
+6bb8a145c40a21b84770e9d937100efb407c0ec3896b6eaf8344c403056fd619,320,BK-R50R-58,BI_RB,Road-650 Red- 58,Bikes,Road Bikes,true,Road,413,true,2011-07-01,false
+6bb8a145c40a21b84770e9d937100efb407c0ec3896b6eaf8344c403056fd619,321,BK-R50R-58,BI_RB,Road-650 Red- 58,Bikes,Road Bikes,true,Road,487,true,2012-07-01,false
+88ae802b78b76707aaf8371af29214c39cdf6e9fb6e046baea586b8df8b59ead,322,BK-R50R-60,BI_RB,Road-650 Red- 60,Bikes,Road Bikes,true,Road,413,true,2011-07-01,false
+88ae802b78b76707aaf8371af29214c39cdf6e9fb6e046baea586b8df8b59ead,323,BK-R50R-60,BI_RB,Road-650 Red- 60,Bikes,Road Bikes,true,Road,487,true,2012-07-01,false
+c701aaabd91f4b2c3cc7418e6c43785ab69bb55f750f79a7d58d56dfc404b983,324,BK-R50R-62,BI_RB,Road-650 Red- 62,Bikes,Road Bikes,true,Road,413,true,2011-07-01,false
+c701aaabd91f4b2c3cc7418e6c43785ab69bb55f750f79a7d58d56dfc404b983,325,BK-R50R-62,BI_RB,Road-650 Red- 62,Bikes,Road Bikes,true,Road,487,true,2012-07-01,false
+5286a1e916969f6ff131522b52a51e480425f9f61cd5653abd68ab4b52e2b8d7,326,BK-R50R-44,BI_RB,Road-650 Red- 44,Bikes,Road Bikes,true,Road,413,true,2011-07-01,false
+5286a1e916969f6ff131522b52a51e480425f9f61cd5653abd68ab4b52e2b8d7,327,BK-R50R-44,BI_RB,Road-650 Red- 44,Bikes,Road Bikes,true,Road,487,true,2012-07-01,false
+e7c4c9feb783b5df3b28b82c374e6ec5928d858ee16a66e7b27e61b2a5fbd920,328,BK-R50R-48,BI_RB,Road-650 Red- 48,Bikes,Road Bikes,true,Road,413,true,2011-07-01,false
+e7c4c9feb783b5df3b28b82c374e6ec5928d858ee16a66e7b27e61b2a5fbd920,329,BK-R50R-48,BI_RB,Road-650 Red- 48,Bikes,Road Bikes,true,Road,487,true,2012-07-01,false
+a72f1956aabd1ea968b5c44cb13eca536426bbcd872c54c27f2efcbedd743167,330,BK-R50R-52,BI_RB,Road-650 Red- 52,Bikes,Road Bikes,true,Road,413,true,2011-07-01,false
+a72f1956aabd1ea968b5c44cb13eca536426bbcd872c54c27f2efcbedd743167,331,BK-R50R-52,BI_RB,Road-650 Red- 52,Bikes,Road Bikes,true,Road,487,true,2012-07-01,false
+61e4e396223e40a98059ae59b139e9c2ea8ec33fcf9651f94adf179dd1b38e7e,332,BK-R50B-58,BI_RB,Road-650 Black- 58,Bikes,Road Bikes,true,Road,413,true,2011-07-01,false
+61e4e396223e40a98059ae59b139e9c2ea8ec33fcf9651f94adf179dd1b38e7e,333,BK-R50B-58,BI_RB,Road-650 Black- 58,Bikes,Road Bikes,true,Road,487,true,2012-07-01,false
+6985cc241ecc784ca3a7e8e28de8e1bcdc99396c8729e7de9c0a7fb3796e37dd,334,BK-R50B-60,BI_RB,Road-650 Black- 60,Bikes,Road Bikes,true,Road,413,true,2011-07-01,false
+6985cc241ecc784ca3a7e8e28de8e1bcdc99396c8729e7de9c0a7fb3796e37dd,335,BK-R50B-60,BI_RB,Road-650 Black- 60,Bikes,Road Bikes,true,Road,487,true,2012-07-01,false
+5adbe9ea8bcf862f0e607f4cccfcd324d31657b77adfdf84e40bd32e6581b1aa,336,BK-R50B-62,BI_RB,Road-650 Black- 62,Bikes,Road Bikes,true,Road,413,true,2011-07-01,false
+5adbe9ea8bcf862f0e607f4cccfcd324d31657b77adfdf84e40bd32e6581b1aa,337,BK-R50B-62,BI_RB,Road-650 Black- 62,Bikes,Road Bikes,true,Road,487,true,2012-07-01,false
+feec8ee644d7ae0604102705a5023be03f8aea0e8900ecbfc4bbede288bd8669,338,BK-R50B-44,BI_RB,Road-650 Black- 44,Bikes,Road Bikes,true,Road,413,true,2011-07-01,false
+feec8ee644d7ae0604102705a5023be03f8aea0e8900ecbfc4bbede288bd8669,339,BK-R50B-44,BI_RB,Road-650 Black- 44,Bikes,Road Bikes,true,Road,487,true,2012-07-01,false
+56fadfbbf13fb75399b47eb9366a994838f4caba56e78a38a819f8030747dabe,340,BK-R50B-48,BI_RB,Road-650 Black- 48,Bikes,Road Bikes,true,Road,413,true,2011-07-01,false
+56fadfbbf13fb75399b47eb9366a994838f4caba56e78a38a819f8030747dabe,341,BK-R50B-48,BI_RB,Road-650 Black- 48,Bikes,Road Bikes,true,Road,487,true,2012-07-01,false
+3ddc79c465264d15c71cfae3e62866557f90f20132542854b203646af51b9ddf,342,BK-R50B-52,BI_RB,Road-650 Black- 52,Bikes,Road Bikes,true,Road,413,true,2011-07-01,false
+3ddc79c465264d15c71cfae3e62866557f90f20132542854b203646af51b9ddf,343,BK-R50B-52,BI_RB,Road-650 Black- 52,Bikes,Road Bikes,true,Road,487,true,2012-07-01,false
+58866294eb7e5b24529ae6e244268f3d3135f9c178755b384c8452b66e5f7497,344,BK-M82S-38,BI_MB,Mountain-100 Silver- 38,Bikes,Mountain Bikes,true,Mountain,1912,true,2011-07-01,false
+e6ece97b26dd39d130622a5c0cd0ac6a5fffcaf797674c5649c6375fce997243,345,BK-M82S-42,BI_MB,Mountain-100 Silver- 42,Bikes,Mountain Bikes,true,Mountain,1912,true,2011-07-01,false
+9d598518bf26848464e9adcbe942e21d3ab4058e248caf012ebe30e4202e822e,346,BK-M82S-44,BI_MB,Mountain-100 Silver- 44,Bikes,Mountain Bikes,true,Mountain,1912,true,2011-07-01,false
+606c43aeb3c46989f1bfc499013e82a4ccabff01f51113241013663891680362,347,BK-M82S-48,BI_MB,Mountain-100 Silver- 48,Bikes,Mountain Bikes,true,Mountain,1912,true,2011-07-01,false
+19b897a228fec2f8a4c8653fa7404a2254a0466ba91566e8768f9f010ad96b79,348,BK-M82B-38,BI_MB,Mountain-100 Black- 38,Bikes,Mountain Bikes,true,Mountain,1898,true,2011-07-01,false
+5ab46ad6b0303e456bd29ec1b7e3d365c122467f48c63ef36b07a5690fd1ab16,349,BK-M82B-42,BI_MB,Mountain-100 Black- 42,Bikes,Mountain Bikes,true,Mountain,1898,true,2011-07-01,false
+991b9cab87b39ad98210671f9d39a26fdcb0f64c570d58289329e2f7f318f56b,350,BK-M82B-44,BI_MB,Mountain-100 Black- 44,Bikes,Mountain Bikes,true,Mountain,1898,true,2011-07-01,false
+a0e0f5f49edc1481da527ad705a288694031a1624a29cc2fcf3337bcc999bdd2,351,BK-M82B-48,BI_MB,Mountain-100 Black- 48,Bikes,Mountain Bikes,true,Mountain,1898,true,2011-07-01,false
+0a346bf50a450cc44f2f81a6f0517f3dd4365f498d5df45c4d8a77734c7a2da8,352,BK-M68S-38,BI_MB,Mountain-200 Silver- 38,Bikes,Mountain Bikes,true,Mountain,1118,true,2012-07-01,false
+0a346bf50a450cc44f2f81a6f0517f3dd4365f498d5df45c4d8a77734c7a2da8,353,BK-M68S-38,BI_MB,Mountain-200 Silver- 38,Bikes,Mountain Bikes,true,Mountain,1266,true,2013-07-01,true
+3a016bd403a40320da6ae9587607fe92a54278125ea8c93f4567fe8903de9769,354,BK-M68S-42,BI_MB,Mountain-200 Silver- 42,Bikes,Mountain Bikes,true,Mountain,1118,true,2012-07-01,false
+3a016bd403a40320da6ae9587607fe92a54278125ea8c93f4567fe8903de9769,355,BK-M68S-42,BI_MB,Mountain-200 Silver- 42,Bikes,Mountain Bikes,true,Mountain,1266,true,2013-07-01,true
+7b0f0d1364512faf221940808d335466cf27ebf61bd22610aa20512117d40dc4,356,BK-M68S-46,BI_MB,Mountain-200 Silver- 46,Bikes,Mountain Bikes,true,Mountain,1118,true,2012-07-01,false
+7b0f0d1364512faf221940808d335466cf27ebf61bd22610aa20512117d40dc4,357,BK-M68S-46,BI_MB,Mountain-200 Silver- 46,Bikes,Mountain Bikes,true,Mountain,1266,true,2013-07-01,true
+389f95b46c8a769432e799e461850c3b4e7f64d7bd4d2b58c8e65349ad36cae1,358,BK-M68B-38,BI_MB,Mountain-200 Black- 38,Bikes,Mountain Bikes,true,Mountain,1106,true,2012-07-01,false
+389f95b46c8a769432e799e461850c3b4e7f64d7bd4d2b58c8e65349ad36cae1,359,BK-M68B-38,BI_MB,Mountain-200 Black- 38,Bikes,Mountain Bikes,true,Mountain,1252,true,2013-07-01,true
+bd3d157530a9a4584fedd808c895ee1483db2b12606fb81d8bb6212868f93db6,360,BK-M68B-42,BI_MB,Mountain-200 Black- 42,Bikes,Mountain Bikes,true,Mountain,1106,true,2012-07-01,false
+bd3d157530a9a4584fedd808c895ee1483db2b12606fb81d8bb6212868f93db6,361,BK-M68B-42,BI_MB,Mountain-200 Black- 42,Bikes,Mountain Bikes,true,Mountain,1252,true,2013-07-01,true
+59c626bea7ffb3b17fceb2a53625b53f7b28d98641a4559eafd5bc646c2991c6,362,BK-M68B-46,BI_MB,Mountain-200 Black- 46,Bikes,Mountain Bikes,true,Mountain,1106,true,2012-07-01,false
+59c626bea7ffb3b17fceb2a53625b53f7b28d98641a4559eafd5bc646c2991c6,363,BK-M68B-46,BI_MB,Mountain-200 Black- 46,Bikes,Mountain Bikes,true,Mountain,1252,true,2013-07-01,true
+ba73f760a1d03fe526182d6f28d7978082d4e9a39ff6bd0a196d316c40593dcd,364,BK-M47B-38,BI_MB,Mountain-300 Black- 38,Bikes,Mountain Bikes,true,Mountain,598,true,2012-07-01,false
+20e0c9738fc73c2b5a51796912dfb516166b2ccf180c1957198dc592ed049f9e,365,BK-M47B-40,BI_MB,Mountain-300 Black- 40,Bikes,Mountain Bikes,true,Mountain,598,true,2012-07-01,false
+f564e49cf59c6f39684b6073a864b70504a2169a0dbb5a49c9c9936cbef164de,366,BK-M47B-44,BI_MB,Mountain-300 Black- 44,Bikes,Mountain Bikes,true,Mountain,598,true,2012-07-01,false
+0eaa806275563df16f4528c4749243521060d6d97a57181e7d0c6aa7075360e7,367,BK-M47B-48,BI_MB,Mountain-300 Black- 48,Bikes,Mountain Bikes,true,Mountain,598,true,2012-07-01,false
+4c3cb6cbc1689fbb885bf229836a50cd8d08ca7e0b0aeec91010da4c6f40a36c,368,BK-R89R-44,BI_RB,Road-250 Red- 44,Bikes,Road Bikes,true,Road,1519,true,2012-07-01,false
+ce757aa76f809fa32239aaa400b62b5ac34b048de35ef5e35cf104c81a33273a,369,BK-R89R-48,BI_RB,Road-250 Red- 48,Bikes,Road Bikes,true,Road,1519,true,2012-07-01,false
+873482148e30ff793250709d342dec487b0f4ebf54a165b3646da7f8a79fe7eb,370,BK-R89R-52,BI_RB,Road-250 Red- 52,Bikes,Road Bikes,true,Road,1519,true,2012-07-01,false
+f8ef74c4bb3b707ccf316d0f6609f5789cef2c34c3ea244c232a270ff55fa6ef,371,BK-R89R-58,BI_RB,Road-250 Red- 58,Bikes,Road Bikes,true,Road,1321,true,2012-07-01,false
+f8ef74c4bb3b707ccf316d0f6609f5789cef2c34c3ea244c232a270ff55fa6ef,372,BK-R89R-58,BI_RB,Road-250 Red- 58,Bikes,Road Bikes,true,Road,1555,true,2013-07-01,true
+3a7829a0e2e673f35aff0e64751e2ccd4448376011f835b11f6a3de44f456443,373,BK-R89B-44,BI_RB,Road-250 Black- 44,Bikes,Road Bikes,true,Road,1321,true,2012-07-01,false
+3a7829a0e2e673f35aff0e64751e2ccd4448376011f835b11f6a3de44f456443,374,BK-R89B-44,BI_RB,Road-250 Black- 44,Bikes,Road Bikes,true,Road,1555,true,2013-07-01,true
+ed72380824724342efb0f6bfea50a299fbb19a72c76eaedcbd29dc5a4c760919,375,BK-R89B-48,BI_RB,Road-250 Black- 48,Bikes,Road Bikes,true,Road,1321,true,2012-07-01,false
+ed72380824724342efb0f6bfea50a299fbb19a72c76eaedcbd29dc5a4c760919,376,BK-R89B-48,BI_RB,Road-250 Black- 48,Bikes,Road Bikes,true,Road,1555,true,2013-07-01,true
+4dfb1bacd5a19fd2e3ee279337f4bb21d9c0cf5d7556d6c0d20548885a60cce6,377,BK-R89B-52,BI_RB,Road-250 Black- 52,Bikes,Road Bikes,true,Road,1321,true,2012-07-01,false
+4dfb1bacd5a19fd2e3ee279337f4bb21d9c0cf5d7556d6c0d20548885a60cce6,378,BK-R89B-52,BI_RB,Road-250 Black- 52,Bikes,Road Bikes,true,Road,1555,true,2013-07-01,true
+698922a6cc5fb41c32172fc01d1b58f04fda82be150e03d1e2e6578df8c33780,379,BK-R89B-58,BI_RB,Road-250 Black- 58,Bikes,Road Bikes,true,Road,1321,true,2012-07-01,false
+698922a6cc5fb41c32172fc01d1b58f04fda82be150e03d1e2e6578df8c33780,380,BK-R89B-58,BI_RB,Road-250 Black- 58,Bikes,Road Bikes,true,Road,1555,true,2013-07-01,true
+69fb5ba6c1d4b0d3165104d2de7344186c70f86473fa5c91e63628aaf2b49b63,381,BK-R64Y-38,BI_RB,Road-550-W Yellow- 38,Bikes,Road Bikes,true,Road,606,true,2012-07-01,false
+69fb5ba6c1d4b0d3165104d2de7344186c70f86473fa5c91e63628aaf2b49b63,382,BK-R64Y-38,BI_RB,Road-550-W Yellow- 38,Bikes,Road Bikes,true,Road,713,true,2013-07-01,true
+612454b8651efc77c647980e9fdcb9d9b8ae665a588d34dd3183388bb863cd30,383,BK-R64Y-40,BI_RB,Road-550-W Yellow- 40,Bikes,Road Bikes,true,Road,606,true,2012-07-01,false
+612454b8651efc77c647980e9fdcb9d9b8ae665a588d34dd3183388bb863cd30,384,BK-R64Y-40,BI_RB,Road-550-W Yellow- 40,Bikes,Road Bikes,true,Road,713,true,2013-07-01,true
+05840b0943d3446c8535c4fc1362708a56bb8f0c9ffd84cef9a02228f17f042c,385,BK-R64Y-42,BI_RB,Road-550-W Yellow- 42,Bikes,Road Bikes,true,Road,606,true,2012-07-01,false
+05840b0943d3446c8535c4fc1362708a56bb8f0c9ffd84cef9a02228f17f042c,386,BK-R64Y-42,BI_RB,Road-550-W Yellow- 42,Bikes,Road Bikes,true,Road,713,true,2013-07-01,true
+521d7257851b6dd1b7f0cd94a9862c48584cf18203fae02e820e6f71a4139c83,387,BK-R64Y-44,BI_RB,Road-550-W Yellow- 44,Bikes,Road Bikes,true,Road,606,true,2012-07-01,false
+521d7257851b6dd1b7f0cd94a9862c48584cf18203fae02e820e6f71a4139c83,388,BK-R64Y-44,BI_RB,Road-550-W Yellow- 44,Bikes,Road Bikes,true,Road,713,true,2013-07-01,true
+0fdaa1d283507e9cd2fd639bfaa5e039d713809ebc0a0a896850e7f2075a9094,389,BK-R64Y-48,BI_RB,Road-550-W Yellow- 48,Bikes,Road Bikes,true,Road,606,true,2012-07-01,false
+0fdaa1d283507e9cd2fd639bfaa5e039d713809ebc0a0a896850e7f2075a9094,390,BK-R64Y-48,BI_RB,Road-550-W Yellow- 48,Bikes,Road Bikes,true,Road,713,true,2013-07-01,true
+1ddfd3dcb6c137d3d798c5b7e608e70d7a89d7a57497f76a47cb2f146950b80a,391,FK-1639,CO_FO,LL Fork,Components,Forks,true,n/a,66,true,2012-07-01,false
+f8913e15e2c3cf8578e5397dc35c89096ad3d43676c264e88d256d9c03810bee,392,FK-5136,CO_FO,ML Fork,Components,Forks,true,n/a,78,true,2012-07-01,false
+52d1a9be51fc42c244cafcf5f72e21de58faf43ca12a6dafd8c8888af6ebdcb8,393,FK-9939,CO_FO,HL Fork,Components,Forks,true,n/a,102,true,2012-07-01,false
+7bd38c671771566913d605b11eab27644330093f7cfce67b4d87edd8148fb8f6,394,HS-0296,CO_HS,LL Headset,Components,Headsets,false,n/a,15,true,2012-07-01,false
+fcda2de1354cbf17d25545adfc42e15d9acff738c0c6d75127cb11e09ac8fea6,395,HS-2451,CO_HS,ML Headset,Components,Headsets,false,n/a,45,true,2012-07-01,false
+bca3308ae3213cd58308d7629af163d2a06b0371336ac739701a32d4a62794bc,396,HS-3479,CO_HS,HL Headset,Components,Headsets,false,n/a,55,true,2012-07-01,false
+aedd246cc4f7ccd0d9392698a6f0da553b74184550fd1ecb266070b3afc4b35c,397,HB-M243,CO_HB,LL Mountain Handlebars,Components,Handlebars,false,Mountain,18,true,2012-07-01,false
+aedd246cc4f7ccd0d9392698a6f0da553b74184550fd1ecb266070b3afc4b35c,398,HB-M243,CO_HB,LL Mountain Handlebars,Components,Handlebars,false,Mountain,20,true,2013-07-01,true
+bcacfbc6a68b1573b87a090b8b5a333ba7401f2c2124ac8f97b072cbe0b6b795,399,HB-M763,CO_HB,ML Mountain Handlebars,Components,Handlebars,false,Mountain,25,true,2012-07-01,false
+bcacfbc6a68b1573b87a090b8b5a333ba7401f2c2124ac8f97b072cbe0b6b795,400,HB-M763,CO_HB,ML Mountain Handlebars,Components,Handlebars,false,Mountain,27,true,2013-07-01,true
+829466d3465598b41e082fc4d27d10d903c44f409801c0337319ba2ce2ad8d5d,401,HB-M918,CO_HB,HL Mountain Handlebars,Components,Handlebars,false,Mountain,49,true,2012-07-01,false
+829466d3465598b41e082fc4d27d10d903c44f409801c0337319ba2ce2ad8d5d,402,HB-M918,CO_HB,HL Mountain Handlebars,Components,Handlebars,false,Mountain,53,true,2013-07-01,true
+8f08cc1d2f2a3868b97f6b0b159eeecbe277458f16a53ee84b46429145b50285,403,HB-R504,CO_HB,LL Road Handlebars,Components,Handlebars,false,Road,18,true,2012-07-01,false
+8f08cc1d2f2a3868b97f6b0b159eeecbe277458f16a53ee84b46429145b50285,404,HB-R504,CO_HB,LL Road Handlebars,Components,Handlebars,false,Road,20,true,2013-07-01,true
+77f745005db77d0016b573f251e01dcde9d44511e7f8c760eee3c0dea6bb29ef,405,HB-R720,CO_HB,ML Road Handlebars,Components,Handlebars,false,Road,25,true,2012-07-01,false
+77f745005db77d0016b573f251e01dcde9d44511e7f8c760eee3c0dea6bb29ef,406,HB-R720,CO_HB,ML Road Handlebars,Components,Handlebars,false,Road,27,true,2013-07-01,true
+1fc7ea84c288970ff7fd611cda187fd7d20813dda578be244974251944971ff9,407,HB-R956,CO_HB,HL Road Handlebars,Components,Handlebars,false,Road,49,true,2012-07-01,false
+1fc7ea84c288970ff7fd611cda187fd7d20813dda578be244974251944971ff9,408,HB-R956,CO_HB,HL Road Handlebars,Components,Handlebars,false,Road,53,true,2013-07-01,true
+f49cfc4258d2b15d9bf592751f9c0b5261f495960c5ff970bebccef21c3b0a93,409,FR-M63B-38,CO_MF,ML Mountain Frame - Black- 38,Components,Mountain Frames,true,Mountain,186,true,2012-07-01,false
+6da9bf8f56906b7d1da6752d7906e5ecd5f07ef4cc5b2ab59768e72cc8165378,410,FW-M423,CO_WH,LL Mountain Front Wheel,Components,Wheels,true,Mountain,27,true,2012-07-01,false
+83661c8a6c37c296b55896f9768e5db7bf5747bc481202246e99e96e603c8bb3,411,FW-M762,CO_WH,ML Mountain Front Wheel,Components,Wheels,true,Mountain,93,true,2012-07-01,false
+4f58a97bf02fd0bba7569a4e57268ba214032540907a53f1c33c86e72598034f,412,FW-M928,CO_WH,HL Mountain Front Wheel,Components,Wheels,true,Mountain,133,true,2012-07-01,false
+1cc7eb08e14c20c26e5b59b5fdf37315fc058abd7b21efcd1f7445d9d5e97a53,413,FW-R623,CO_WH,LL Road Front Wheel,Components,Wheels,true,Road,38,true,2012-07-01,false
+f030c0277c9c494e75d975a139c54462c7be6372d996bdcec1ec5ec0fc9300e5,414,FW-R762,CO_WH,ML Road Front Wheel,Components,Wheels,true,Road,110,true,2012-07-01,false
+d82403989d4d60f3c0c8d66b2f16b1e3be15b06defe21564f86e32240da7a754,415,FW-R820,CO_WH,HL Road Front Wheel,Components,Wheels,true,Road,147,true,2012-07-01,false
+1cec8717b68c249f3729845c2eadabb988dc1b731f35fa706321e80d88690d49,416,FW-T905,CO_WH,Touring Front Wheel,Components,Wheels,true,Touring,97,true,2012-07-01,false
+709972b76abecab568aef1296d02ea7706a1fe118d8e341323efbd194e4cead7,417,FR-R72Y-38,CO_RF,ML Road Frame-W - Yellow- 38,Components,Road Frames,true,Road,300,true,2012-07-01,false
+709972b76abecab568aef1296d02ea7706a1fe118d8e341323efbd194e4cead7,418,FR-R72Y-38,CO_RF,ML Road Frame-W - Yellow- 38,Components,Road Frames,true,Road,361,true,2013-07-01,true
+1c27f6ca5d020a331e52e1c579d95a9221c29a845b916d84e3ec6ae628a7280e,419,RW-M423,CO_WH,LL Mountain Rear Wheel,Components,Wheels,true,Mountain,39,true,2012-07-01,false
+cfe9fffacd6194d9e490bf6994cf1ccd86d961fe6f1b36f0a495ff8426286034,420,RW-M762,CO_WH,ML Mountain Rear Wheel,Components,Wheels,true,Mountain,105,true,2012-07-01,false
+991d4693e5d06881bd8748b6e4555588f1b974a30ef97e001ab3b423a89890c9,421,RW-M928,CO_WH,HL Mountain Rear Wheel,Components,Wheels,true,Mountain,145,true,2012-07-01,false
+b9b1878b6f628271c24d7f57c991c53516e4d762145576bb8db7bb8b5a162b1d,422,RW-R623,CO_WH,LL Road Rear Wheel,Components,Wheels,true,Road,50,true,2012-07-01,false
+8cd02d22c5b51a8ec95f9f32c41bb3b1d75eaa5188df8ed5cdd079e9d2c23cfb,423,RW-R762,CO_WH,ML Road Rear Wheel,Components,Wheels,true,Road,122,true,2012-07-01,false
+3065ede1d650d4201c0833da46bbde0fc5c6eb9d7b1c7877533f9ca96919f2d0,424,RW-R820,CO_WH,HL Road Rear Wheel,Components,Wheels,true,Road,159,true,2012-07-01,false
+06bf6a23fea2a4e59f20fa8507e8830ae4c8a5a5b32bf64fab84fa6bc800c605,425,RW-T905,CO_WH,Touring Rear Wheel,Components,Wheels,true,Touring,109,true,2012-07-01,false
+1fa3d1b5f3a14fb63d58a867e32d79e154569fd7f2afaa5535e98f05d3d3bae6,426,FR-M63B-40,CO_MF,ML Mountain Frame - Black- 40,Components,Mountain Frames,true,Mountain,186,true,2012-07-01,false
+c84256b40f2fe9d2f5a79e5e9939159208392ce86a4507d7b5ac69c5c0c5d7d8,427,FR-M63B-44,CO_MF,ML Mountain Frame - Black- 44,Components,Mountain Frames,true,Mountain,186,true,2012-07-01,false
+52ee9c76b270c74588f59d9f92307af9bba7ba9f17192e27a419d9bcf0cd2763,428,FR-M63B-48,CO_MF,ML Mountain Frame - Black- 48,Components,Mountain Frames,true,Mountain,186,true,2012-07-01,false
+9c09b349ecc108894eaf4dd38111392e6b939f8b8443eec3e1a4b0f65056869e,429,FR-R72Y-40,CO_RF,ML Road Frame-W - Yellow- 40,Components,Road Frames,true,Road,300,true,2012-07-01,false
+9c09b349ecc108894eaf4dd38111392e6b939f8b8443eec3e1a4b0f65056869e,430,FR-R72Y-40,CO_RF,ML Road Frame-W - Yellow- 40,Components,Road Frames,true,Road,361,true,2013-07-01,true
+fe38418b09f2497dd5272abfc423c81c6a53b450cb3f26263ba9e155469b1633,431,FR-R72Y-42,CO_RF,ML Road Frame-W - Yellow- 42,Components,Road Frames,true,Road,300,true,2012-07-01,false
+fe38418b09f2497dd5272abfc423c81c6a53b450cb3f26263ba9e155469b1633,432,FR-R72Y-42,CO_RF,ML Road Frame-W - Yellow- 42,Components,Road Frames,true,Road,361,true,2013-07-01,true
+198bcf26885c532ff9a6ce9f4b56c809a484cd1c4ada200e4733d225ce923ca3,433,FR-R72Y-44,CO_RF,ML Road Frame-W - Yellow- 44,Components,Road Frames,true,Road,300,true,2012-07-01,false
+198bcf26885c532ff9a6ce9f4b56c809a484cd1c4ada200e4733d225ce923ca3,434,FR-R72Y-44,CO_RF,ML Road Frame-W - Yellow- 44,Components,Road Frames,true,Road,361,true,2013-07-01,true
+7bde6a0b039a3318616e71840c2414ea560e86f2eb85940830e76bda1cb178f2,435,FR-R72Y-48,CO_RF,ML Road Frame-W - Yellow- 48,Components,Road Frames,true,Road,300,true,2012-07-01,false
+7bde6a0b039a3318616e71840c2414ea560e86f2eb85940830e76bda1cb178f2,436,FR-R72Y-48,CO_RF,ML Road Frame-W - Yellow- 48,Components,Road Frames,true,Road,361,true,2013-07-01,true
+612461e2b64fe8a166d6f4632333bbcadd53804f2d6ffab04e1c7810bc51bc49,437,FR-R92B-62,CO_RF,HL Road Frame - Black- 62,Components,Road Frames,true,Road,722,true,2012-07-01,false
+612461e2b64fe8a166d6f4632333bbcadd53804f2d6ffab04e1c7810bc51bc49,438,FR-R92B-62,CO_RF,HL Road Frame - Black- 62,Components,Road Frames,true,Road,869,true,2013-07-01,true
+c3a4679a05cc5960504d4fb84facb04ca11d7900038b8dd755ffb59d8c5361d1,439,FR-R92B-44,CO_RF,HL Road Frame - Black- 44,Components,Road Frames,true,Road,722,true,2012-07-01,false
+c3a4679a05cc5960504d4fb84facb04ca11d7900038b8dd755ffb59d8c5361d1,440,FR-R92B-44,CO_RF,HL Road Frame - Black- 44,Components,Road Frames,true,Road,869,true,2013-07-01,true
+c4296292d3e1dcdd838c6df860fccc3223735691900e0a464e6a6ab2eb8fe0d3,441,FR-R92B-48,CO_RF,HL Road Frame - Black- 48,Components,Road Frames,true,Road,722,true,2012-07-01,false
+c4296292d3e1dcdd838c6df860fccc3223735691900e0a464e6a6ab2eb8fe0d3,442,FR-R92B-48,CO_RF,HL Road Frame - Black- 48,Components,Road Frames,true,Road,869,true,2013-07-01,true
+835e6b58e0bd5fd90da9156650e0e6260cdae97cd37307c77f6743cfde563491,443,FR-R92B-52,CO_RF,HL Road Frame - Black- 52,Components,Road Frames,true,Road,722,true,2012-07-01,false
+835e6b58e0bd5fd90da9156650e0e6260cdae97cd37307c77f6743cfde563491,444,FR-R92B-52,CO_RF,HL Road Frame - Black- 52,Components,Road Frames,true,Road,869,true,2013-07-01,true
+8c4a72e931cb5f7f1e82b663970d24109a61d28fdc22f2b994da445dae1472b6,445,SH-M897-S,CL_SH,Men's Sports Shorts- S,Clothing,Shorts,false,other sales,25,true,2012-07-01,false
+c1b146aa87ccdcad0df9aea7ebed6eed9f00c899de7d9a68ec16978405c596f7,446,PA-T100,AC_PA,Touring-Panniers- Large,Accessories,Panniers,false,Touring,52,true,2012-07-01,false
+35a43ebd9b50e5fb2605ae9b65fb3422e13fbac5f2a8a2d3635012019975990b,447,LO-C100,AC_LO,Cable Lock,Accessories,Locks,true,other sales,10,true,2012-07-01,false
+091b67dff4429c94c7fd45dce0d62f0667c1d7d2f5db972c03d5d35f6daf9de1,448,PU-0452,AC_PU,Minipump,Accessories,Pumps,true,other sales,8,true,2012-07-01,false
+b0e6af336740b6cf59be209fbdf9d8c270ef9d0dd35b7e7aafd9557c579563d6,449,PU-M044,AC_PU,Mountain Pump,Accessories,Pumps,true,Mountain,10,true,2012-07-01,false
+fa21b9389c21a15333f805b16edb74fef681c7d0179e7798700a099f23fa1b99,450,LT-T990,AC_LI,Taillights - Battery-Powered,Accessories,Lights,true,Road,6,true,2012-07-01,false
+bd36b1f1106ba2d0f4ca91bc101ca5e3bf45909d967a216d6395c870a6866456,451,LT-H902,AC_LI,Headlights - Dual-Beam,Accessories,Lights,true,Road,14,true,2012-07-01,false
+896c6119878abd58c4daefeb3cc4c34e6b2e489c410d8cf2c036a25b6fc10436,452,LT-H903,AC_LI,Headlights - Weatherproof,Accessories,Lights,true,Road,19,true,2012-07-01,false
+b3a55f820b33dbbee2194dc871786aa72b3b8cd5027fd80a84ecb461854193cc,453,SH-M897-M,CL_SH,Men's Sports Shorts- M,Clothing,Shorts,false,other sales,25,true,2012-07-01,false
+b22431be87cff76e2008080ed1f16c295e08ca74425b3e2b1092356cde8de104,454,SH-M897-L,CL_SH,Men's Sports Shorts- L,Clothing,Shorts,false,other sales,25,true,2012-07-01,false
+8886639d08ebb20879d36e9f2f4c8d72826b73f00435098b1e15e5c5169c4326,455,SH-M897-X,CL_SH,Men's Sports Shorts- XL,Clothing,Shorts,false,other sales,25,true,2012-07-01,false
+f594e744632320dce75402ae3ad5d7d0565e5090ddb8f3d591d90b6ec1620934,456,TG-W091-S,CL_TI,Women's Tights- S,Clothing,Tights,false,other sales,31,true,2012-07-01,false
+e1fe81d43d6a383ebc134dee2d3b534a4b6fe0d8652e08faf7dfb63c63138aed,457,TG-W091-M,CL_TI,Women's Tights- M,Clothing,Tights,false,other sales,31,true,2012-07-01,false
+5f4ed46fcf7ec4798b7e12b091d63a3791d6e96e4f6f18babb6edb0ce6526ba9,458,TG-W091-L,CL_TI,Women's Tights- L,Clothing,Tights,false,other sales,31,true,2012-07-01,false
+1f5dd069ac9e806758361316b7a91786765f3ce37c88720a54ee09d3567c026e,459,SB-M891-S,CL_BS,Men's Bib-Shorts- S,Clothing,Bib-Shorts,false,other sales,37,true,2012-07-01,false
+e6449d1ca3a343d84a27c9d9f1bec19d105b88ed1e2d7dbd2458e3ea540f3337,460,SB-M891-M,CL_BS,Men's Bib-Shorts- M,Clothing,Bib-Shorts,false,other sales,37,true,2012-07-01,false
+3a9aecad04a9c65cae6efc8cc878b95c8a588ef01498d0a734263250a5c28445,461,SB-M891-L,CL_BS,Men's Bib-Shorts- L,Clothing,Bib-Shorts,false,other sales,37,true,2012-07-01,false
+357a34dbbc306f60447cb0af193d957e3a731bb1a2e6c7360cee0db0222d6024,462,GL-H102-S,CL_GL,Half-Finger Gloves- S,Clothing,Gloves,false,other sales,10,true,2012-07-01,false
+357a34dbbc306f60447cb0af193d957e3a731bb1a2e6c7360cee0db0222d6024,463,GL-H102-S,CL_GL,Half-Finger Gloves- S,Clothing,Gloves,false,other sales,9,true,2013-07-01,true
+4ee485ed7427c81760e7853facae7933207ad8083e37c16e54ed031ed6f2b68a,464,GL-H102-M,CL_GL,Half-Finger Gloves- M,Clothing,Gloves,false,other sales,10,true,2012-07-01,false
+4ee485ed7427c81760e7853facae7933207ad8083e37c16e54ed031ed6f2b68a,465,GL-H102-M,CL_GL,Half-Finger Gloves- M,Clothing,Gloves,false,other sales,9,true,2013-07-01,true
+947639463f453dda5923d90208b818d69d487c290b835fc9b9698cff515e4616,466,GL-H102-L,CL_GL,Half-Finger Gloves- L,Clothing,Gloves,false,other sales,10,true,2012-07-01,false
+947639463f453dda5923d90208b818d69d487c290b835fc9b9698cff515e4616,467,GL-H102-L,CL_GL,Half-Finger Gloves- L,Clothing,Gloves,false,other sales,9,true,2013-07-01,true
+cd9f5e8e63fbe6cf6564765a0a74ffc4ccaeab73961e60d2297e5e678e39aaf8,468,GL-F110-S,CL_GL,Full-Finger Gloves- S,Clothing,Gloves,false,Mountain,16,true,2012-07-01,false
+c2565dfa4b3135ac63290e9ac2d6b20ff924473d0671eaa32e3cf15efe8d9670,469,GL-F110-M,CL_GL,Full-Finger Gloves- M,Clothing,Gloves,false,Mountain,16,true,2012-07-01,false
+4976dabbfb3934acfa831c6fc1ae439a5fae872f628614e21921730df1ed9600,470,GL-F110-L,CL_GL,Full-Finger Gloves- L,Clothing,Gloves,false,Mountain,16,true,2012-07-01,false
+8e45a636f00a123b855d9528961cac85d3c77bb321879ba889d51bc1d8cd3e0b,471,VE-C304-S,CL_VE,Classic Vest- S,Clothing,Vests,false,other sales,24,true,2013-07-01,true
+dcb1e4dd7b69227b4578cb74129f3005a6e15372d8d45f35cba1f452b93280c4,472,VE-C304-M,CL_VE,Classic Vest- M,Clothing,Vests,false,other sales,24,true,2013-07-01,true
+4d53022d390346442c9879db147a31392ecc392d479020e7092be3e3c23d210f,473,VE-C304-L,CL_VE,Classic Vest- L,Clothing,Vests,false,other sales,24,true,2013-07-01,true
+49825c4d6cef68ba234a4088f5773c409ab322674e5cec300aa4ee4b7e3dde2a,474,SH-W890-S,CL_SH,Women's Mountain Shorts- S,Clothing,Shorts,false,Mountain,26,true,2013-07-01,true
+078e4c287159ba5dec5f4f173ac23992b3f749c7e68a608518f652600c604c7e,475,SH-W890-M,CL_SH,Women's Mountain Shorts- M,Clothing,Shorts,false,Mountain,26,true,2013-07-01,true
+faf92a0eeec9749649e2c27b787d30c745e69cf827198ba5995291018b704a83,476,SH-W890-L,CL_SH,Women's Mountain Shorts- L,Clothing,Shorts,false,Mountain,26,true,2013-07-01,true
+ca42653f78490af721718c5b0788a803e85263ae14107294db882678837eea05,477,WB-H098,AC_BC,Water Bottle - 30 oz.,Accessories,Bottles and Cages,false,other sales,2,true,2013-07-01,true
+9432eb79931630c22953aa1fd400ab15247bd4b885812b875fd219b7ced8ad55,478,BC-M005,AC_BC,Mountain Bottle Cage,Accessories,Bottles and Cages,false,Mountain,4,true,2013-07-01,true
+cdf82dcd819336ed7cb93b35ee36ef50ef4ac3c8dbad75632aaa9a28e4f48b80,479,BC-R205,AC_BC,Road Bottle Cage,Accessories,Bottles and Cages,false,Road,3,true,2013-07-01,true
+93eff46914e6035105d7856a51571c0cddafcad01b4975fdb758fd2b71ea61e5,480,PK-7098,AC_TT,Patch Kit/8 Patches,Accessories,Tires and Tubes,true,other sales,1,true,2013-07-01,true
+7f30883a8dd04458d48fe1037a48511c6199e4a6649e5b98ea06c41b6bd777f2,481,SO-R809-M,CL_SO,Racing Socks- M,Clothing,Socks,false,Road,3,true,2013-07-01,true
+03daaf0050e9ec84741d896f1231fd0cd272152f875a40a58bdf7c5d1b22c67d,482,SO-R809-L,CL_SO,Racing Socks- L,Clothing,Socks,false,Road,3,true,2013-07-01,true
+cddf0e1b3c761df2f9b5c2275aa68e1630d332131c9de0c01192ab0c91d8f2fb,483,RA-H123,AC_BR,Hitch Rack - 4-Bike,Accessories,Bike Racks,true,other sales,45,true,2013-07-01,true
+708d94177f1f03e1ae9a869ebbded4ab6aa20c67f01611302381a3c1d481599a,484,CL-9009,AC_CL,Bike Wash - Dissolver,Accessories,Cleaners,true,other sales,3,true,2013-07-01,true
+e2ebb8722ed00799d23a79a727d841a52d2908357dd04c8ff27bc9a870536fa1,485,FE-6654,AC_FE,Fender Set - Mountain,Accessories,Fenders,false,Mountain,8,true,2013-07-01,true
+7c919e79769673d3d27c558d0edb25c49d74cf2e160bce2c8dfdc93674345351,486,ST-1401,AC_BS,All-Purpose Bike Stand,Accessories,Bike Stands,false,Mountain,59,true,2013-07-01,true
+2c6fb29def7d4aec0e01ec0ffdb469242adb51c0d0506f4fb830fe1ed37e28bb,487,HY-1023-70,AC_HP,Hydration Pack - 70 oz.,Accessories,Hydration Packs,false,other sales,21,true,2013-07-01,true
+94744be9e90714bd677460f93531870bc3c12768ae46b2d787039f20d5e7a0b5,488,SJ-0194-S,CL_JE,Short-Sleeve Classic Jersey- S,Clothing,Jerseys,false,other sales,42,true,2013-07-01,true
+0431c3c2ecdfe2e7eb4cd37ba6c23c8944b07dc6b275b2528ff48becb9d8fcbc,489,SJ-0194-M,CL_JE,Short-Sleeve Classic Jersey- M,Clothing,Jerseys,false,other sales,42,true,2013-07-01,true
+ae815f45714433788854f607ccbf7df2b786a1ecd6a1a32d5b5a94a484dcd044,490,SJ-0194-L,CL_JE,Short-Sleeve Classic Jersey- L,Clothing,Jerseys,false,other sales,42,true,2013-07-01,true
+b9e2162db0965f890ac51aaa1ea9f3298d6a69a8d235400c952dd5c1da244356,491,SJ-0194-X,CL_JE,Short-Sleeve Classic Jersey- XL,Clothing,Jerseys,false,other sales,42,true,2013-07-01,true
+40584c9ed9738ed6e8e9283c1139782a78153b7005951bbff0214013cbc51b79,492,FR-T98Y-60,CO_TF,HL Touring Frame - Yellow- 60,Components,Touring Frames,true,Touring,602,true,2013-07-01,true
+30db48e5f26aa965c83291fe34848c00ca75726e3e8e9e6b545ce366faff0a55,493,FR-T67Y-62,CO_TF,LL Touring Frame - Yellow- 62,Components,Touring Frames,true,Touring,200,true,2013-07-01,true
+999ee06c53ff1de368fe7e358fffc003009bc4a61f23e53d84eca0849469edcf,494,FR-T98Y-46,CO_TF,HL Touring Frame - Yellow- 46,Components,Touring Frames,true,Touring,602,true,2013-07-01,true
+727241e2d474b1e2bea18de925d1b2bbf42cd7ce4e1468a97151afaca4aae308,495,FR-T98Y-50,CO_TF,HL Touring Frame - Yellow- 50,Components,Touring Frames,true,Touring,602,true,2013-07-01,true
+2cd15a28cd5d2818a7369d2f1d704a265a8a204bea0ec71624b653b7913598f5,496,FR-T98Y-54,CO_TF,HL Touring Frame - Yellow- 54,Components,Touring Frames,true,Touring,602,true,2013-07-01,true
+a40f5ef3ffb0fd23d0fe30c0ed68db8b7e8dca39b92d70e1f54f5b50eaab01dc,497,FR-T98U-46,CO_TF,HL Touring Frame - Blue- 46,Components,Touring Frames,true,Touring,602,true,2013-07-01,true
+80531e2c921205b4dd2a0fc04a633b8084700c6f2df5e6498280751fcde27f58,498,FR-T98U-50,CO_TF,HL Touring Frame - Blue- 50,Components,Touring Frames,true,Touring,602,true,2013-07-01,true
+3e2816389e709d852bcb902f0fd2659edc49ceb392ecc3dc145e84b0b7a9a51e,499,FR-T98U-54,CO_TF,HL Touring Frame - Blue- 54,Components,Touring Frames,true,Touring,602,true,2013-07-01,true
+e1700a065c0ae268d381d17f5f512b7d5647dc9627af87bc7f2557184fbb8480,500,FR-T98U-60,CO_TF,HL Touring Frame - Blue- 60,Components,Touring Frames,true,Touring,602,true,2013-07-01,true
+e6f0ea3856b366d48effc9f9df62667331efc3b8748d29cf08928a9575c36785,501,RD-2308,CO_DE,Rear Derailleur,Components,Derailleurs,true,n/a,54,true,2013-07-01,true
+422b20db7eaf88ca35f296928554064c92b1d25d3b5dde27757fe0002b102706,502,FR-T67U-50,CO_TF,LL Touring Frame - Blue- 50,Components,Touring Frames,true,Touring,200,true,2013-07-01,true
+d8f034907d2bbeb816d1810125cb16f726ba62955a7ef6a8fd95429d2f665365,503,FR-T67U-54,CO_TF,LL Touring Frame - Blue- 54,Components,Touring Frames,true,Touring,200,true,2013-07-01,true
+054c786035742cff6297cae6f5611697e1c4c88adf7ec0422d2757d98e4bb71a,504,FR-T67U-58,CO_TF,LL Touring Frame - Blue- 58,Components,Touring Frames,true,Touring,200,true,2013-07-01,true
+bae98fb80d65e72261631f3e955c8eec8053c125241483b92888dd298536d280,505,FR-T67U-62,CO_TF,LL Touring Frame - Blue- 62,Components,Touring Frames,true,Touring,200,true,2013-07-01,true
+cc4b329109c14d3f7bf9b614ce6f985724fce7399ca1bfbc8ff4ee5da0284da0,506,FR-T67Y-44,CO_TF,LL Touring Frame - Yellow- 44,Components,Touring Frames,true,Touring,200,true,2013-07-01,true
+e2a2991035304f05b46a0a93df67f770dc84c31f990d2565b16dcf892d9bb63b,507,FR-T67Y-50,CO_TF,LL Touring Frame - Yellow- 50,Components,Touring Frames,true,Touring,200,true,2013-07-01,true
+b3743424f190a5ffc3eaf61e6778daef4ec0f0712333c6bf9b3b6cd2de3d07a5,508,FR-T67Y-54,CO_TF,LL Touring Frame - Yellow- 54,Components,Touring Frames,true,Touring,200,true,2013-07-01,true
+6d2bebf5b0dab35be157a5b5805bbcbe8414b4f40d12bf59c011c09b53f05494,509,FR-T67Y-58,CO_TF,LL Touring Frame - Yellow- 58,Components,Touring Frames,true,Touring,200,true,2013-07-01,true
+6a268fefeda5c8b1cd077b68df2d7860a5c640e4b3c33177085f285f2060b666,510,FR-T67U-44,CO_TF,LL Touring Frame - Blue- 44,Components,Touring Frames,true,Touring,200,true,2013-07-01,true
+48b0b327e5315079a7bd163d5c849439443c6e77639a696e7b5408d459962e15,511,FR-M63S-40,CO_MF,ML Mountain Frame-W - Silver- 40,Components,Mountain Frames,true,Mountain,199,true,2013-07-01,true
+019bfdf56e00bc414ec196f487a4a3548a0f9f62647ebc36a50091437892a7db,512,FR-M63S-42,CO_MF,ML Mountain Frame-W - Silver- 42,Components,Mountain Frames,true,Mountain,199,true,2013-07-01,true
+a7e87d53288ffd19417ec04469c65bc730b3948c47c21baaa6ca1405ccfa7784,513,FR-M63S-46,CO_MF,ML Mountain Frame-W - Silver- 46,Components,Mountain Frames,true,Mountain,199,true,2013-07-01,true
+8326a7f403533d556c08d88e42c3da5f8ccfef1088c435925047d73b768832a1,514,RB-9231,CO_BR,Rear Brakes,Components,Brakes,true,n/a,47,true,2013-07-01,true
+f309a778ea3abe9f08cee90a09076fa958fe0fe10f1da59b535ddd10b161513c,515,SE-M236,CO_SA,LL Mountain Seat/Saddle,Components,Saddles,false,Mountain,12,true,2013-07-01,true
+8c80c76e6dfca3e649b81a373d8933c1684957efc957a8f3bc49ded92d0e9cd8,516,SE-M798,CO_SA,ML Mountain Seat/Saddle,Components,Saddles,false,Mountain,17,true,2013-07-01,true
+c4812760264384c6a4176c9c3d03017015ec3886aedc62d8b371549527bf726b,517,SE-M940,CO_SA,HL Mountain Seat/Saddle,Components,Saddles,false,Mountain,23,true,2013-07-01,true
+e173583911d592eb3b2b15d2520e394637748e26ffbfb4c9967657220c3c6951,518,SE-R581,CO_SA,LL Road Seat/Saddle,Components,Saddles,false,Road,12,true,2013-07-01,true
+4e696b6b889fdca3715a039dc5b0f4525eb1ad545ee191903073037a3665048e,519,SE-R908,CO_SA,ML Road Seat/Saddle,Components,Saddles,false,Touring,17,true,2013-07-01,true
+a69778d7719324bcdb74fd32752c9e8da046bb974c3fd9862d4c8108b7e80136,520,SE-R995,CO_SA,HL Road Seat/Saddle,Components,Saddles,false,Road,23,true,2013-07-01,true
+ef412a5dee094b8cc28367f09b3bc46b58b2fd3d0f372c0a707e783c6e2cc86c,521,SE-T312,CO_SA,LL Touring Seat/Saddle,Components,Saddles,false,Touring,12,true,2013-07-01,true
+a077e6b554656317519f911d98dbefffe504cc7e964dc8c9b6b021f475bd44f5,522,SE-T762,CO_SA,ML Touring Seat/Saddle,Components,Saddles,false,Touring,17,true,2013-07-01,true
+6f03f0cd82a4ca3726c8b1aeae0e631186dcb1c2e7dc4820c4a084b99f2fac77,523,SE-T924,CO_SA,HL Touring Seat/Saddle,Components,Saddles,false,Touring,23,true,2013-07-01,true
+bf663533eacef25f1b67688e4692d01aacd3c4fba59d49fda0afde9d06702a60,524,FR-M21S-42,CO_MF,LL Mountain Frame - Silver- 42,Components,Mountain Frames,true,Mountain,145,true,2013-07-01,true
+754f3425e1bbb74627c489cea3de27b9f38723f1cb629ca72f51f04102bf8eb0,525,FR-M21S-44,CO_MF,LL Mountain Frame - Silver- 44,Components,Mountain Frames,true,Mountain,145,true,2013-07-01,true
+810bbff6cdc87e3d57e9c78fa7b98de3102fa41284838c5a3a782836d3190213,526,FR-M21S-48,CO_MF,LL Mountain Frame - Silver- 48,Components,Mountain Frames,true,Mountain,145,true,2013-07-01,true
+0686c9fb62b4eca7611c1a72bb40968869c15ea8caf6c5f77d05ef91dfa03830,527,FR-M21S-52,CO_MF,LL Mountain Frame - Silver- 52,Components,Mountain Frames,true,Mountain,145,true,2013-07-01,true
+32c562b241e103e17697c482421cd6f3d7ea6df5c0aa78453a428bbf431d562c,528,TT-M928,AC_TT,Mountain Tire Tube,Accessories,Tires and Tubes,true,Mountain,2,true,2013-07-01,true
+45b21d82a20e0ac892c28dac6bdac04cfac6221dabb1ffed25614886da8e51f8,529,TT-R982,AC_TT,Road Tire Tube,Accessories,Tires and Tubes,true,Road,1,true,2013-07-01,true
+e57517bfe1d36e78508d9aea5de09935a838e7afbd1e452372b2f8b297651c1e,530,TT-T092,AC_TT,Touring Tire Tube,Accessories,Tires and Tubes,true,Touring,2,true,2013-07-01,true
+fdef37cfc4a02595682437f44dfca91ced4cfb75718b313f64a34b1423015823,531,FR-M21B-42,CO_MF,LL Mountain Frame - Black- 42,Components,Mountain Frames,true,Mountain,137,true,2013-07-01,true
+cd05cf14dc08c90dfa52ed11ba24efea1e1bdb424b2b94cb350c01effd410ce5,532,FR-M21B-44,CO_MF,LL Mountain Frame - Black- 44,Components,Mountain Frames,true,Mountain,137,true,2013-07-01,true
+89f8318c25a563805b364e77e0e082c50d3d2fa58ce2982b4fbfa0c3f0b8bac6,533,FR-M21B-48,CO_MF,LL Mountain Frame - Black- 48,Components,Mountain Frames,true,Mountain,137,true,2013-07-01,true
+30411acd9428efc911fa557160cca0e3914add8ceacd927519d079be36d030d8,534,FR-M21B-52,CO_MF,LL Mountain Frame - Black- 52,Components,Mountain Frames,true,Mountain,137,true,2013-07-01,true
+b38ba341a9ab39c5f712950c3eb0b0ad673404bef4c824bc09958fd599c4bf9a,535,TI-M267,AC_TT,LL Mountain Tire,Accessories,Tires and Tubes,true,Mountain,9,true,2013-07-01,true
+a35a230ce094a65a1869a2570ca8a9eb3c5bed8298593804b5484b92b87c3500,536,TI-M602,AC_TT,ML Mountain Tire,Accessories,Tires and Tubes,true,Mountain,11,true,2013-07-01,true
+bc29785fef85e151059b67949bc0f5d3f5ff426e2ab5aa1f6e956a69b653959c,537,TI-M823,AC_TT,HL Mountain Tire,Accessories,Tires and Tubes,true,Mountain,13,true,2013-07-01,true
+af1be578099c1d705d5d135fc1d5133950a85c1f08d496fae2d68689c494608e,538,TI-R092,AC_TT,LL Road Tire,Accessories,Tires and Tubes,true,Road,8,true,2013-07-01,true
+87d1c7fb1741ae3c8d3296dbcf60a1add47dfc0dbb7c8df4824e1e0b2f7437f5,539,TI-R628,AC_TT,ML Road Tire,Accessories,Tires and Tubes,true,Road,9,true,2013-07-01,true
+451fcba12e0d3db306cc93fca6da0b3158f07259028f1728d9c45b2f1d881b35,540,TI-R982,AC_TT,HL Road Tire,Accessories,Tires and Tubes,true,Road,12,true,2013-07-01,true
+ee6ef135b6c874c80cf1aece3c26b6b037fb5dd14b5a0b27a3367929cd7ac4de,541,TI-T723,AC_TT,Touring Tire,Accessories,Tires and Tubes,true,Touring,11,true,2013-07-01,true
+f68e68164eb5281d9d428b24692cda165d83be3e1cfba983743f010d41457f7f,542,PD-M282,CO_PE,LL Mountain Pedal,null,null,null,Mountain,18,true,2013-07-01,true
+e0c70ba9671186d4378ba274f16bdee1b7dc5ceccbab0997eb0499cf41ec728a,543,PD-M340,CO_PE,ML Mountain Pedal,null,null,null,Mountain,28,true,2013-07-01,true
+6bafe1fe9f233b33db7be7375752fd75a26351ecb8e8780f41ba93c6bfd6d248,544,PD-M562,CO_PE,HL Mountain Pedal,null,null,null,Mountain,36,true,2013-07-01,true
+50a3498dd8f8b264a45043641cfc50be5315d94daf0c4f39cf5b52202c4fe09b,545,PD-R347,CO_PE,LL Road Pedal,null,null,null,Road,18,true,2013-07-01,true
+6197e2b1c8797e8e7e86271747697681323d6e61f9ad87fe624d3cbe03d35585,546,PD-R563,CO_PE,ML Road Pedal,null,null,null,Road,28,true,2013-07-01,true
+b08a8669d98dbed3072b614c08aa4320ffdea5aebd779cbdd4117c85eab39e1e,547,PD-R853,CO_PE,HL Road Pedal,null,null,null,Road,36,true,2013-07-01,true
+72fa7a80860bbf751311731938cb741e72bbb490239cf5a7763d23591b9840ec,548,PD-T852,CO_PE,Touring Pedal,null,null,null,Touring,36,true,2013-07-01,true
+1690fa29851837359b3d02fd01c0443d74ea509ce0f9ae3677ad3dadc1da3b6e,549,FR-M63S-38,CO_MF,ML Mountain Frame-W - Silver- 38,Components,Mountain Frames,true,Mountain,199,true,2013-07-01,true
+9fdd9ee25df7769d42032efe1ed00db5f9671f728eb7c9a73d18f86d7da1667f,550,FR-M21B-40,CO_MF,LL Mountain Frame - Black- 40,Components,Mountain Frames,true,Mountain,137,true,2013-07-01,true
+90253ae796350910d413f337f9cdd19d4cb9b2decef4a575217511c702461483,551,FR-M21S-40,CO_MF,LL Mountain Frame - Silver- 40,Components,Mountain Frames,true,Mountain,145,true,2013-07-01,true
+b4992cc7f99a4e8fc59f03da10609fd2864c8360852a2e96a34675ae43dadedd,552,FD-2342,CO_DE,Front Derailleur,Components,Derailleurs,true,n/a,41,true,2013-07-01,true
+37855917faf78c1f665e432bc1c5682cc0451f8f49f6013814514929bbbb428c,553,HB-T721,CO_HB,LL Touring Handlebars,Components,Handlebars,false,Touring,20,true,2013-07-01,true
+863e78b496dc610a3f8a22d7b6367059e17a83f13b8e72db5db16da6d3634481,554,HB-T928,CO_HB,HL Touring Handlebars,Components,Handlebars,false,Touring,41,true,2013-07-01,true
+3c088561f4a5d57740d59642e03d2fb8b53646fe439c7314ec8a40f6186f04b8,555,FB-9873,CO_BR,Front Brakes,Components,Brakes,true,n/a,47,true,2013-07-01,true
+65280b058d04cb0664e17eabc8d91488c23ae9a186a9ad09198c7f3e5a405189,556,CS-4759,CO_CS,LL Crankset,Components,Cranksets,true,n/a,78,true,2013-07-01,true
+51f13df7e4cd09e97cb9e0ebaf6cc6e6b94d1a030349d96713e2899a847a4028,557,CS-6583,CO_CS,ML Crankset,Components,Cranksets,true,n/a,114,true,2013-07-01,true
+d7c12f010b8681844c9f1915b5ef1366b72ef370d92f97fc63394c2c5ecc2813,558,CS-9183,CO_CS,HL Crankset,Components,Cranksets,true,n/a,180,true,2013-07-01,true
+a7519ec78bc83bd15d749f515f30f01e11841716e82fc6583177a254b4fc65c2,559,CH-0234,CO_CH,Chain,Components,Chains,true,n/a,9,true,2013-07-01,true
+1f08af6ce2549d0548e4705c1f2146c6c8e365bbb26c3d301a72e1716a19dade,560,BK-T44U-60,BI_TB,Touring-2000 Blue- 60,Bikes,Touring Bikes,true,Touring,755,true,2013-07-01,true
+0545afbe64ed452c67024bc2c0632376b82db0b5740f117663682bdcd2f9a258,561,BK-T79Y-46,BI_TB,Touring-1000 Yellow- 46,Bikes,Touring Bikes,true,Touring,1482,true,2013-07-01,true
+6e2f48a98027f131f96b613eeaff49cc8324d3c826530e0552e84be663ac1c88,562,BK-T79Y-50,BI_TB,Touring-1000 Yellow- 50,Bikes,Touring Bikes,true,Touring,1482,true,2013-07-01,true
+9b60acc68d8c42d9e420a1905c3867f41ce82097ce3cfb753ecc0a9f4c2f0f93,563,BK-T79Y-54,BI_TB,Touring-1000 Yellow- 54,Bikes,Touring Bikes,true,Touring,1482,true,2013-07-01,true
+15f5622701920c12b9073b47f09fc190890e5b5754e228027b77c2861ea38831,564,BK-T79Y-60,BI_TB,Touring-1000 Yellow- 60,Bikes,Touring Bikes,true,Touring,1482,true,2013-07-01,true
+1c28173d04f4783b3cd849c5d78c870f616dfa1df6e4d3a44ee8b353e148d26b,565,BK-T18U-54,BI_TB,Touring-3000 Blue- 54,Bikes,Touring Bikes,true,Touring,461,true,2013-07-01,true
+326a5432f0e6092f2095810d45dfec1799ef893f1952fd384edbe0e2709297a2,566,BK-T18U-58,BI_TB,Touring-3000 Blue- 58,Bikes,Touring Bikes,true,Touring,461,true,2013-07-01,true
+62769eed39ac37c6017ab57a981b8f8b0d5c67ef6c55fdeda7440e50f79d2272,567,BK-T18U-62,BI_TB,Touring-3000 Blue- 62,Bikes,Touring Bikes,true,Touring,461,true,2013-07-01,true
+3d98ee51254098dc1814fc59676f4003c2e9dd18fcb45e5aae2a304ec54844b2,568,BK-T18Y-44,BI_TB,Touring-3000 Yellow- 44,Bikes,Touring Bikes,true,Touring,461,true,2013-07-01,true
+620c99254fbe8290f317ddbb632463f1912aa065ceb30ce74ea19d86852828c1,569,BK-T18Y-50,BI_TB,Touring-3000 Yellow- 50,Bikes,Touring Bikes,true,Touring,461,true,2013-07-01,true
+67077598992ccaef41c6dab23aae44a61d37956cf67bb13633d4dfc5dce70e3a,570,BK-T18Y-54,BI_TB,Touring-3000 Yellow- 54,Bikes,Touring Bikes,true,Touring,461,true,2013-07-01,true
+c865f0658f832aa470ae7c98299126168a98a06e61ec2070692ec688cca54154,571,BK-T18Y-58,BI_TB,Touring-3000 Yellow- 58,Bikes,Touring Bikes,true,Touring,461,true,2013-07-01,true
+df0158945cc402870a0628df11c400deb7b79b470fe37851df8fd742380714b3,572,BK-T18Y-62,BI_TB,Touring-3000 Yellow- 62,Bikes,Touring Bikes,true,Touring,461,true,2013-07-01,true
+06723294b494d2769aa2888e150ca1a8efda8e6443562dc96b94dd79c618c96d,573,BK-T79U-46,BI_TB,Touring-1000 Blue- 46,Bikes,Touring Bikes,true,Touring,1482,true,2013-07-01,true
+ad77f30cf1022c5d84044d6445a739aada9c78d5e74b149789466df21ca8415e,574,BK-T79U-50,BI_TB,Touring-1000 Blue- 50,Bikes,Touring Bikes,true,Touring,1482,true,2013-07-01,true
+ebaa491c5456497c60aa08027bcbbe17ebcf82d4d984fe87422e40bc65949867,575,BK-T79U-54,BI_TB,Touring-1000 Blue- 54,Bikes,Touring Bikes,true,Touring,1482,true,2013-07-01,true
+49cc2ea4ac70fd0cc3931137c6537a38e8a8e37adabd8cae89223a50edbd6a87,576,BK-T79U-60,BI_TB,Touring-1000 Blue- 60,Bikes,Touring Bikes,true,Touring,1482,true,2013-07-01,true
+28d1ef32112885eb6e965939ab4f4e0464dd57d96378ddfcc1564d74148cd455,577,BK-T44U-46,BI_TB,Touring-2000 Blue- 46,Bikes,Touring Bikes,true,Touring,755,true,2013-07-01,true
+6141c2048ed3850b99a2761a36538d44251890a6ee66499c1fb2da13503a11ad,578,BK-T44U-50,BI_TB,Touring-2000 Blue- 50,Bikes,Touring Bikes,true,Touring,755,true,2013-07-01,true
+f114fac4294748698d8cf7b924d08b9dc59ac20009bc14f9d35300a6eb78f8c9,579,BK-T44U-54,BI_TB,Touring-2000 Blue- 54,Bikes,Touring Bikes,true,Touring,755,true,2013-07-01,true
+e39df080240cddf40e532fa1056dcbbe1a5196e8ddb2d5ed9a2f6e097557b4c2,580,BK-R79Y-40,BI_RB,Road-350-W Yellow- 40,Bikes,Road Bikes,true,Road,1083,true,2013-07-01,true
+8c557ca2ea4948c262b3c893f727223949ec757b0a94fedca9430e9d1b4e0386,581,BK-R79Y-42,BI_RB,Road-350-W Yellow- 42,Bikes,Road Bikes,true,Road,1083,true,2013-07-01,true
+c6fd0d38365be00c34a953df875ea439ba591c86f51ddd47e35ed410d32de8b7,582,BK-R79Y-44,BI_RB,Road-350-W Yellow- 44,Bikes,Road Bikes,true,Road,1083,true,2013-07-01,true
+3beaa580dade27561adfe571b10e30c5308147b4db47a12ffd7f21bf93cefbb9,583,BK-R79Y-48,BI_RB,Road-350-W Yellow- 48,Bikes,Road Bikes,true,Road,1083,true,2013-07-01,true
+4bf899da6d611207dd336a4641aa199edc01852121bf74515299e7e35618d8ca,584,BK-R19B-58,BI_RB,Road-750 Black- 58,Bikes,Road Bikes,true,Road,344,true,2013-07-01,true
+c5c987143d0ca3beeacdcb89d4a300e41c1e13bc096fbd22693874de8b8e1eb9,585,BK-T18U-44,BI_TB,Touring-3000 Blue- 44,Bikes,Touring Bikes,true,Touring,461,true,2013-07-01,true
+6d3074b471408d8176d0913f7b0f1be389b7f7369116b6938b04fda1611cec07,586,BK-T18U-50,BI_TB,Touring-3000 Blue- 50,Bikes,Touring Bikes,true,Touring,461,true,2013-07-01,true
+3d25eafcda4e0695bc1fb6d3bee9f14b99932508dc35aa72bfa9981eac964388,587,BK-M38S-38,BI_MB,Mountain-400-W Silver- 38,Bikes,Mountain Bikes,true,Mountain,420,true,2013-07-01,true
+7a5168cfddd4ed1caa5bce28edb04c02127072c0fcbb86640fe327031ce88d4e,588,BK-M38S-40,BI_MB,Mountain-400-W Silver- 40,Bikes,Mountain Bikes,true,Mountain,420,true,2013-07-01,true
+b5c4f1f8dd8a977d2b571f25421ce704507f5f6ed44af43980263e120b991512,589,BK-M38S-42,BI_MB,Mountain-400-W Silver- 42,Bikes,Mountain Bikes,true,Mountain,420,true,2013-07-01,true
+7acba410bf13c67c4f370cead279cddeed707579ae7870c50f46cc1f0a26cda5,590,BK-M38S-46,BI_MB,Mountain-400-W Silver- 46,Bikes,Mountain Bikes,true,Mountain,420,true,2013-07-01,true
+40adfc9236ec8d8e66e9d854029e567961f99cb3dbbbaa1e61c90b17039eb6a1,591,BK-M18S-40,BI_MB,Mountain-500 Silver- 40,Bikes,Mountain Bikes,true,Mountain,308,true,2013-07-01,true
+aca3a438e8ef3aff0ed69808ab8d3df1f67662d850e305f35cc643057351fedf,592,BK-M18S-42,BI_MB,Mountain-500 Silver- 42,Bikes,Mountain Bikes,true,Mountain,308,true,2013-07-01,true
+2dd070c3dac05b482a26f05b908fd57307d2046fe03633962f6d264b1ec00272,593,BK-M18S-44,BI_MB,Mountain-500 Silver- 44,Bikes,Mountain Bikes,true,Mountain,308,true,2013-07-01,true
+cd562eac18b7eb9cfcc832f93fd73a4e327e51296e3e18c58b5cd291ff545f06,594,BK-M18S-48,BI_MB,Mountain-500 Silver- 48,Bikes,Mountain Bikes,true,Mountain,308,true,2013-07-01,true
+8f3f14b541f8abf79a359a893f0ec3167b18e6932000caadc2a4567f9f11780e,595,BK-M18S-52,BI_MB,Mountain-500 Silver- 52,Bikes,Mountain Bikes,true,Mountain,308,true,2013-07-01,true
+b16cddf0912baf20e345c8278b54bf6e5abaad654c50ca27f3f6e0a475f31433,596,BK-M18B-40,BI_MB,Mountain-500 Black- 40,Bikes,Mountain Bikes,true,Mountain,295,true,2013-07-01,true
+5fc432c731fe8014f92694b213af0975366e9f7af289febebe3f6251903c5b34,597,BK-M18B-42,BI_MB,Mountain-500 Black- 42,Bikes,Mountain Bikes,true,Mountain,295,true,2013-07-01,true
+b9769ab6dacb4e4b59ec6129c2b2ccc0ab770592d47d01cd94e39c526341392b,598,BK-M18B-44,BI_MB,Mountain-500 Black- 44,Bikes,Mountain Bikes,true,Mountain,295,true,2013-07-01,true
+15e6029524f993f855e801c723878a3eabd6f946a64e39be8933409dfa324efc,599,BK-M18B-48,BI_MB,Mountain-500 Black- 48,Bikes,Mountain Bikes,true,Mountain,295,true,2013-07-01,true
+0bc17489b45d31489cb9128da02d5664be2cfbf6b401e27805b4100fe743a426,600,BK-M18B-52,BI_MB,Mountain-500 Black- 52,Bikes,Mountain Bikes,true,Mountain,295,true,2013-07-01,true
+f442d946f5c92d3ef5d021dc446cbcbf936e5ba9bc777c699884e4a4602a3849,601,BB-7421,CO_BB,LL Bottom Bracket,Components,Bottom Brackets,true,n/a,24,true,2013-07-01,true
+f22fcf641a211153d79dd2db915762b01891c5d7074c8494b49072921f1eb695,602,BB-8107,CO_BB,ML Bottom Bracket,Components,Bottom Brackets,true,n/a,45,true,2013-07-01,true
+3b3863f4fbc5749226f92c701d807ee6123dc53e0b54395640c9f9e8bdab55d0,603,BB-9108,CO_BB,HL Bottom Bracket,Components,Bottom Brackets,true,n/a,54,true,2013-07-01,true
+a6b6ffddc515a713156df73323702ff344f9cc15c6eb3e60813b3318081c9f5e,604,BK-R19B-44,BI_RB,Road-750 Black- 44,Bikes,Road Bikes,true,Road,344,true,2013-07-01,true
+14e0f20515e33c7f37886ae806a76fd6272cebe381851398da6032cd9f2a9f98,605,BK-R19B-48,BI_RB,Road-750 Black- 48,Bikes,Road Bikes,true,Road,344,true,2013-07-01,true
+f69075b724fdbaa3bf966945b03b916695f717111c2a2a1f382c097dc581a4ea,606,BK-R19B-52,BI_RB,Road-750 Black- 52,Bikes,Road Bikes,true,Road,344,true,2013-07-01,true
